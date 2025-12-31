@@ -9,8 +9,8 @@
 @import "./gradient-buttons.css";
 /* 加密内容样式已移除，现在直接使用非加密文章的样式 */
 
-@import "@fontsource/murecho-500";
-@import "@fontsource/baloo-2-500";
+@import "@fontsource/murecho";
+@import "@fontsource/baloo-2";
 
 @tailwind base;
 @tailwind components;
