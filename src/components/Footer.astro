@@ -1,0 +1,63 @@
+---
+
+import * as fs from "node:fs";
+import * as path from "node:path";
+import { footerConfig, profileConfig } from "../config";
+import { url } from "../utils/url-utils";
+
+const currentYear = new Date().getFullYear();
+
+// 页脚自定义内容逻辑
+let customFooterHtml = "";
+if (footerConfig.enable) {
+	// 优先使用 customHtml，如果为空则使用 FooterConfig.html 文件内容
+	if (footerConfig.customHtml && footerConfig.customHtml.trim() !== "") {
+		customFooterHtml = footerConfig.customHtml.trim();
+	} else {
+		// customHtml 为空时，读取 FooterConfig.html 文件内容
+		try {
+			const footerConfigPath = path.join(
+				process.cwd(),
+				"src",
+				"FooterConfig.html",
+			);
+			customFooterHtml = fs.readFileSync(footerConfigPath, "utf-8");
+			// 移除HTML注释
+			customFooterHtml = customFooterHtml
+				.replace(/<!--[\s\S]*?-->/g, "")
+				.trim();
+		} catch (error) {
+			console.warn("FooterConfig.html文件读取失败:", error.message);
+		}
+	}
+}
+---
+
+<!--<div class="border-t border-[var(&#45;&#45;primary)] mx-16 border-dashed py-8 max-w-[var(&#45;&#45;page-width)] flex flex-col items-center justify-center px-6">-->
+<div class="transition border-t border-black/10 dark:border-white/15 my-10 border-dashed mx-32"></div>
+<!--<div class="transition bg-[oklch(92%_0.01_var(&#45;&#45;hue))] dark:bg-black rounded-2xl py-8 mt-4 mb-8 flex flex-col items-center justify-center px-6">-->
+<div class="transition border-dashed border-[oklch(85%_0.01_var(--hue))] dark:border-white/15 rounded-2xl mb-12 flex flex-col items-center justify-center px-6">
+    <div class="transition text-50 text-sm text-center">
+        {customFooterHtml && (
+            <div class="mb-2" set:html={customFooterHtml}></div>
+        )}
+        歌词著作权归原作者所有，其余文字内容采用 
+        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans">知识共享署名-非商业性使用-相同方式共享 4.0 国际版本许可协议</a> 
+        进行许可<br>
+        &copy; <span id="copyright-year">2020–{currentYear}</span> {profileConfig.name} /
+        <a class="transition link text-[var(--primary)] font-medium" href={url('rss/')} onclick={`event.preventDefault(); navigateToPage('${url('rss/')}')`}>RSS</a> /
+		<a class="transition link text-[var(--primary)] font-medium" href={url('atom/')} onclick={`event.preventDefault(); navigateToPage('${url('atom/')}')`}>Atom</a> /
+        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href={url('sitemap-index.xml')}>Sitemap</a><br>
+        Powered by
+        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://astro.build">Astro</a> &
+        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://github.com/matsuzaka-yuki/mizuki">Mizuki</a>&nbsp; Version <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://github.com/matsuzaka-yuki/mizuki">7.6.5</a><br>
+    </div>
+	<div class="transition flex items-center justify-center gap-3 mt-3">
+        <a target="_blank" href="https://notbyai.fyi/">
+            <img src={url('src/assets/images/Written-By-Human-Not-By-AI-Badge-white@2x.png')} width="130px" alt="Written by Human, Not by AI" />
+        </a>
+        <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans">
+            <img src={url('src/assets/images/by-nc-sa.png')} width="118px" alt="CC BY-NC-SA 4.0" />
+        </a>
+	</div>
+</div>
