@@ -82,20 +82,20 @@ export type SiteConfig = {
 	};
 
 	// 添加字体配置
-	font: {
-		asciiFont: {
-			fontFamily: string;
-			fontWeight: string | number;
-			localFonts: string[];
-			enableCompress: boolean;
-		};
-		cjkFont: {
-			fontFamily: string;
-			fontWeight: string | number;
-			localFonts: string[];
-			enableCompress: boolean;
-		};
-	};
+	// font: {
+	// 	asciiFont: {
+	// 		fontFamily: string;
+	// 		fontWeight: string | number;
+	// 		localFonts: string[];
+	// 		enableCompress: boolean;
+	// 	};
+	// 	cjkFont: {
+	// 		fontFamily: string;
+	// 		fontWeight: string | number;
+	// 		localFonts: string[];
+	// 		enableCompress: boolean;
+	// 	};
+	// };
 
 	// 添加bangumi配置
 	bangumi?: {
@@ -449,3 +449,4 @@ export type PioConfig = {
 export type ShareConfig = {
 	enable: boolean; // 是否启用分享功能
 };
+
