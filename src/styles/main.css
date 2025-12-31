@@ -9,9 +9,22 @@
 @import "./gradient-buttons.css";
 /* 加密内容样式已移除，现在直接使用非加密文章的样式 */
 
-@import "@fontsource/roboto/500.css";
 @import "@fontsource/murecho/500.css";
 @import "@fontsource/baloo-2/500.css";
+
+@font-face {
+  font-family: "Roboto";
+  src: url("/assets/font/Roboto-Regular.woff2") format("woff2");
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Sans";
+  src: url("/assets/font/SourceHanSansSC-Regular.woff2") format("woff2");
+  font-weight: 500;
+  font-display: swap;
+}
 
 @tailwind base;
 @tailwind components;
