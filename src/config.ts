@@ -212,6 +212,12 @@ export const navBarConfig: NavBarConfig = {
 			icon: "material-symbols:info",
 		},
 		{
+			name: "Blog",
+			url: "https://GuoPCinGitHub.github.io",
+			external: true,
+			icon: "material-symbols:ink-pen",
+		},
+		{
 			name: "GitHub",
 			url: "https://github.com/GuoPCinGitHub/TranslationPlot",
 			external: true,
