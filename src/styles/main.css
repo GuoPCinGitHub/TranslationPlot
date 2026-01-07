@@ -9,20 +9,21 @@
 @import "./gradient-buttons.css";
 /* 加密内容样式已移除，现在直接使用非加密文章的样式 */
 
-@import "@fontsource/murecho/500.css";
-@import "@fontsource/baloo-2/500.css";
+@import "@fontsource/m-plus-1p/400.css";
+@import "@fontsource/m-plus-1p/700.css";
+@import "@fontsource/baloo-2/400.css";
 
 @font-face {
   font-family: "Roboto";
   src: url("/assets/font/Roboto-Regular.woff2") format("woff2");
-  font-weight: 500;
+  font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Source Han Sans";
   src: url("/assets/font/SourceHanSansSC-Regular.woff2") format("woff2");
-  font-weight: 500;
+  font-weight: 400;
   font-display: swap;
 }
 
@@ -729,7 +730,7 @@ rt {
 
 div[lang="ja"],
 span[lang="ja"] {
-  font-family: Roboto, Murecho, "Kozuka Gothic Pro", "Yu Gothic", sans-serif;
+  font-family: Roboto, "M PLUS 1p", "Kozuka Gothic Pro", "Yu Gothic", sans-serif;
   font-display: swap;
 }
 
