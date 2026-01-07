@@ -9,9 +9,8 @@
 @import "./gradient-buttons.css";
 /* 加密内容样式已移除，现在直接使用非加密文章的样式 */
 
-@import "@fontsource/kosugi/400.css";
-@import "@fontsource/kosugi/700.css";
-@import "@fontsource/baloo-2/400.css";
+@import "@fontsource/kosugi/japanese-400.css";
+@import "@fontsource/baloo-2/devanagari-400.css";
 
 @font-face {
   font-family: "Roboto";
