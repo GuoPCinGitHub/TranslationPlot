@@ -9,8 +9,8 @@
 @import "./gradient-buttons.css";
 /* 加密内容样式已移除，现在直接使用非加密文章的样式 */
 
-@import "@fontsource/m-plus-1p/400.css";
-@import "@fontsource/m-plus-1p/700.css";
+@import "@fontsource/kosugi/400.css";
+@import "@fontsource/kosugi/700.css";
 @import "@fontsource/baloo-2/400.css";
 
 @font-face {
@@ -730,7 +730,7 @@ rt {
 
 div[lang="ja"],
 span[lang="ja"] {
-  font-family: Roboto, "M PLUS 1p", "Kozuka Gothic Pro", "Yu Gothic", sans-serif;
+  font-family: Roboto, Kosugi, "Kozuka Gothic Pro", "Yu Gothic", sans-serif;
   font-display: swap;
 }
 

@@ -35,7 +35,7 @@
 		"@fancyapps/ui": "^6.1.7",
 		"@fontsource-variable/jetbrains-mono": "^5.2.8",
 		"@fontsource/baloo-2": "^5.2.7",
-		"@fontsource/m-plus-1p": "^5.2.8",
+		"@fontsource/kosugi": "^5.2.8",
 		"@iconify-json/fa6-brands": "^1.2.6",
 		"@iconify-json/fa6-regular": "^1.2.4",
 		"@iconify-json/fa6-solid": "^1.2.4",

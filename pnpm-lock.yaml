@@ -44,7 +44,7 @@ importers:
       '@fontsource/baloo-2':
         specifier: ^5.2.7
         version: 5.2.7
-      '@fontsource/m-plus-1p':
+      '@fontsource/kosugi':
         specifier: ^5.2.8
         version: 5.2.8
       '@iconify-json/fa6-brands':
@@ -1072,8 +1072,8 @@ packages:
   '@fontsource/baloo-2@5.2.7':
     resolution: {integrity: sha512-RllEWCvjw0PqLey6hbNI2M8gdZy2CFCIHXXNIXC4V4xsRQeOgZ3OMx3uQ1u4LjJ16BGytZD6wE/VFU9st0VdDg==}
 
-  '@fontsource/m-plus-1p@5.2.8':
-    resolution: {integrity: sha512-J3Qt+NWTWj/fHkpaIL06zGZhNi6XBEG1XsMXovMD521usNR20se62I1C6nlIQok5iQvTicnjWSVnoQ1OBTKfLA==, tarball: https://registry.npmmirror.com/@fontsource/m-plus-1p/-/m-plus-1p-5.2.8.tgz}
+  '@fontsource/kosugi@5.2.8':
+    resolution: {integrity: sha512-0E0aPCQSTm9DerRgyMEeOLyLDklwkEOtGESjJLGUq92APNO/OiOhZlr9IO5gGMo9ew0bVDWa0LSJidxLq6urGA==, tarball: https://registry.npmmirror.com/@fontsource/kosugi/-/kosugi-5.2.8.tgz}
 
   '@gar/promisify@1.1.3':
     resolution: {integrity: sha512-k2Ty1JcVojjJFwrg/ThKi2ujJ7XNLYaFGNB/bWT9wGR+oSMJHMa5w+CUq6p/pVrKeNNgA7pCqEcjSnHVoqJQFw==}
@@ -7030,7 +7030,7 @@ snapshots:
 
   '@fontsource/baloo-2@5.2.7': {}
 
-  '@fontsource/m-plus-1p@5.2.8': {}
+  '@fontsource/kosugi@5.2.8': {}
 
   '@gar/promisify@1.1.3': {}
 
