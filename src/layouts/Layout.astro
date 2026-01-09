@@ -149,8 +149,8 @@ if (siteConfig.font) {
 	}
 	// 添加系统字体作为最终回退
 	fonts.push(
-		"Source Han Sans",
-		"Noto Sans CJK",
+		"'Source Han Sans'",
+		"'Noto Sans CJK'",
 		"system-ui",
 		"-apple-system",
 		"BlinkMacSystemFont",
@@ -340,9 +340,9 @@ if (siteConfig.font) {
 			rel="alternate"
 			type="application/rss+xml"
 			title={profileConfig.name}
-			href={`${Astro.site}rss.xml`}
+			href={`${siteConfig.siteURL}rss.xml`}
 		/>
-		<link rel="sitemap" href="/sitemap-index.xml" />
+		<link rel="sitemap" href={`${siteConfig.siteURL}/sitemap-index.xml`}` />
 
 		<!-- Umami Analytics -->
 		{umamiEnabled && umamiScripts && <Fragment set:html={umamiScripts} />}
