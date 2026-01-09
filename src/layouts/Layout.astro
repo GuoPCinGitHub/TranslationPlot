@@ -244,6 +244,7 @@ if (siteConfig.font) {
 		<meta property="twitter:url" content={Astro.url} />
 		<meta name="twitter:title" content={pageTitle} />
 		<meta name="twitter:description" content={description || pageTitle} />
+		{isHomePage && <meta name="msvalidate.01" content="A7E0B0924BD65B23AE688222BBA4ABFA" />}
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		{
@@ -339,6 +340,7 @@ if (siteConfig.font) {
 			title={profileConfig.name}
 			href={`${Astro.site}rss.xml`}
 		/>
+		<link rel="sitemap" href="/sitemap-index.xml" />
 
 		<!-- Umami Analytics -->
 		{umamiEnabled && umamiScripts && <Fragment set:html={umamiScripts} />}
