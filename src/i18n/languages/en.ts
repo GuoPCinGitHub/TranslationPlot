@@ -259,7 +259,7 @@ export const en: Translation = {
 	[Key.decryptionError]: "An error occurred during decryption:",
 
 	// Last Modified Time Card
-	[Key.lastModifiedPrefix]: "Time since last edit: ",
+	[Key.lastModifiedPrefix]: "Time since publication: ",
 	[Key.lastModifiedOutdated]: "Some information may be outdated",
 	[Key.year]: "y",
 	[Key.month]: "m",
@@ -311,3 +311,4 @@ export const en: Translation = {
 	[Key.shareOnSocialDescription]:
 		"If this article helped you, please share it with others!",
 };
+
