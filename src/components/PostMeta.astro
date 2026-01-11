@@ -93,16 +93,16 @@ const {
 
     <!-- tags (只有在不显示基本元数据时才显示) -->
     {!showOnlyBasicMeta && (
-        <div class:list={["items-center", {"flex": !hideTagsForMobile, "hidden md:flex": hideTagsForMobile}]}>
-            <div class="meta-icon">
+        <div class:list={["items-start", {"flex": !hideTagsForMobile, "hidden md:flex": hideTagsForMobile}]}>
+            <div class="meta-icon min-w-[2rem]">
                 <Icon name="material-symbols:tag-rounded" class="text-xl"></Icon>
             </div>
-            <div class="flex flex-row flex-nowrap items-center">
+            <div class="flex flex-row flex-wrap items-center">
                 {(tags && tags.length > 0) && tags.map((tag, i) => (
                     <>
                         <div class:list={[{"hidden": i == 0}, "mx-1.5 text-[var(--meta-divider)] text-sm"]}>/</div>
                         <a href={getTagUrl(tag)} aria-label={`View all posts with the ${tag.trim()} tag`}
-                           class="link-lg transition text-50 text-sm font-medium
+                           class="link-lg transition my-0 text-50 text-sm font-medium
                                         hover:text-[var(--primary)] dark:hover:text-[var(--primary)] whitespace-nowrap">
                             {tag.trim()}
                         </a>
