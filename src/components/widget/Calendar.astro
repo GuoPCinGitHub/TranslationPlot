@@ -37,6 +37,7 @@ const weekDays = [
 	i18n(I18nKey.calendarSunday),
 ];
 
+const siteURL =siteConfig.siteURL;
 const isChinese = siteConfig.lang.startsWith("zh");
 const yearSuffix = isChinese ? "年" : " ";
 ---
@@ -131,12 +132,11 @@ const yearSuffix = isChinese ? "年" : " ";
 <script
 	is:inline
 	define:vars={{
+		siteURL,
 		monthNames,
 		yearSuffix,
 	}}
 >
-import { siteConfig } from "@/config";
-
 	let allPostsData = [];
 	const postDateMap = {};
 	const postsByMonth = {};
@@ -149,7 +149,7 @@ import { siteConfig } from "@/config";
 
 	async function fetchCalendarData() {
 		try {
-			const res = await fetch(`${siteConfig.siteURL}api/calendar-data.json`);
+			const res = await fetch(`${siteURL}api/calendar-data.json`);
 			const data = await res.json();
 			if (Array.isArray(data)) {
 				allPostsData = data;
