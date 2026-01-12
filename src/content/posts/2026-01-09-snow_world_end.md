@@ -3,7 +3,7 @@ title: Snow World End
 published: 2026-01-09
 description: 游戏《冬天的谎言 -Snow World End-》主题曲
 image: ./covers/uso_series_complete_vocal_album.png
-tags: ["四季的谎言系列", "主题曲", "榊原由依演唱", "榊原由依作词", "折仓俊则作曲"]
+tags: ["四季的谎言系列", "主题曲", "榊原由依演唱", "Ayumi.作词", "榊原由依作曲"]
 category: 日本音乐作品
 ---
 
@@ -11,7 +11,7 @@ category: 日本音乐作品
 
 🎙️演唱：榊原由依
 
-✍️作词：榊原由依 | 🎵作曲：折仓俊则 from STRIKERS
+✍️作词：Ayumi. | 🎵作曲：榊原由依
 
 ## 歌词
 
