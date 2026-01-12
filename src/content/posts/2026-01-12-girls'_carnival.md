@@ -87,8 +87,8 @@ Girls' Carnival　夢中で遊ぼう
 
 <div style="white-space:pre-wrap;">
 
-比晨光映出的　露珠还要雀跃
-稍微整理下刘海
+将比晨光中的　露珠还雀跃的
+刘海简单整理下
 换个香水踮一踮脚伸了个懒腰
 还差一步便是Girls' life
 
