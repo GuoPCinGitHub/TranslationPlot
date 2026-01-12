@@ -1,5 +1,5 @@
 ---
-title: Without You
+title: 《Without You》歌词翻译
 published: 2023-05-07
 description: 游戏《魔女的夜宴》插曲
 image: ./covers/sanoba_witch_original_soundtrack.png

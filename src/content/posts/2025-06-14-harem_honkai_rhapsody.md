@@ -1,5 +1,5 @@
 ---
-title: ハーレム崩壊ラプソディ（后宫崩坏狂想曲）
+title: 《ハーレム崩壊ラプソディ（后宫崩坏狂想曲）》歌词翻译
 published: 2025-06-14
 description: TV动画《学生会的一己之见》登场角色杉崎键角色歌
 image: ./covers/tv_anime_seitokai_no_ichizon_character_fan_disc_sugisaki_ken.png

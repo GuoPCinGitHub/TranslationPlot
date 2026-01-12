@@ -1,5 +1,5 @@
 ---
-title: 潮風のハーモニー（海风的和声）
+title: 《潮風のハーモニー（海风的和声）》歌词翻译
 published: 2023-02-14
 description: TV动画《TARI TARI》片尾曲
 image: ./covers/shiokaze_no_harmony.png

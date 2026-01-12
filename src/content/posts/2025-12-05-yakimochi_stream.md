@@ -1,5 +1,5 @@
 ---
-title: ヤキモチ☆ストリーム（醋意☆乱流）
+title: 《ヤキモチ☆ストリーム（醋意☆乱流）》歌词翻译
 published: 2025-12-05
 description: 游戏《醋意乱流》主题曲、片头曲
 image: ./covers/yakimochi_stream.png

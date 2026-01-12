@@ -1,5 +1,5 @@
 ---
-title: 妄想☆ふぇてぃっしゅ！（妄想☆Fetish！）
+title: 《妄想☆ふぇてぃっしゅ！（妄想☆Fetish！）》歌词翻译
 published: 2024-08-17
 description: TV动画《学生会的一己之见》第1、3、4、7话片尾曲
 image: ./covers/mousou_fetish.png

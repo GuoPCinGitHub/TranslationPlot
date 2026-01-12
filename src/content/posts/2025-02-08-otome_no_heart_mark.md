@@ -1,5 +1,5 @@
 ---
-title: オトメノ＊ハートマーク（少女的＊心形记号）
+title: 《オトメノ＊ハートマーク（少女的＊心形记号）》歌词翻译
 published: 2025-02-08
 description: 电台节目《少女＊领域 RADIO＊MAIDEN》主题曲
 image: ./covers/otome_no_heart_mark.png

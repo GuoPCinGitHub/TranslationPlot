@@ -1,5 +1,5 @@
 ---
-title: トゥルリラブ（Truly Love）
+title: 《トゥルリラブ（Truly Love）》歌词翻译
 published: 2024-07-18
 description: 《纯白交响曲 原创剧集》安洁莉娜·菜夏·史威尔角色歌
 image: ./covers/mashiroiro_symphony_original_drama_series_sound_portrait.png

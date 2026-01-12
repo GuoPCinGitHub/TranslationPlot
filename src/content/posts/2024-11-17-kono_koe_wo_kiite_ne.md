@@ -1,5 +1,5 @@
 ---
-title: この声を聞いてね（请倾听这个声音）
+title: 《この声を聞いてね（请倾听这个声音）》声优访谈与歌词翻译
 published: 2024-11-17
 description: 游戏《Friend to Lover ～Fureraba～》泽渡岬角色歌
 image: ./covers/friend_to_lover_furefaba_character_song_cd.png

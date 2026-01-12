@@ -1,5 +1,5 @@
 ---
-title: ずっとこのまま…（一直就这样…）
+title: 《ずっとこのまま…（一直就这样…）》歌词翻译
 published: 2024-08-14
 description: TV动画《纯白交响曲 -The color of lovers-》乾纱凪角色歌
 image: ./covers/mashiroiro_symphony_character_palette_vol_2.png

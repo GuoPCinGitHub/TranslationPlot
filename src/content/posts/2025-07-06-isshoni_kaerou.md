@@ -1,5 +1,5 @@
 ---
-title: 一緒に帰ろう（一起回去吧）
+title: 《一緒に帰ろう（一起回去吧）》歌词翻译
 published: 2025-07-06
 description: TV动画《雏子的笔记》OP专辑C/W曲
 image: ./covers/a_e_i_u_e_o_ao.png

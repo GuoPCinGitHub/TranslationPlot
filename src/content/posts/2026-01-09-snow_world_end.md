@@ -1,5 +1,5 @@
 ---
-title: Snow World End
+title: 《Snow World End》歌词翻译
 published: 2026-01-09
 description: 游戏《冬天的谎言 -Snow World End-》主题曲
 image: ./covers/uso_series_complete_vocal_album.png

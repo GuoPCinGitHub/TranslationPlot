@@ -1,5 +1,5 @@
 ---
-title: 小さな願い（小小的愿望）
+title: 《小さな願い（小小的愿望）》歌词翻译
 published: 2024-01-26
 description: 游戏《天神乱漫》龙胆琉璃角色歌
 image: ./covers/tenshin_ranman_character_song_vol_2.png

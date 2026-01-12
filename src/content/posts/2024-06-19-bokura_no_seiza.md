@@ -1,5 +1,5 @@
 ---
-title: ぼくらの星座（我们的星座）
+title: 《ぼくらの星座（我们的星座）》歌词翻译
 published: 2024-06-19
 description: 游戏《星恋＊Twinkle》片头曲
 image: ./covers/bokura_no_seiza.png

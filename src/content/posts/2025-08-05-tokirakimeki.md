@@ -1,5 +1,5 @@
 ---
-title: トキラキメキ（心动幸运悸动）
+title: 《トキラキメキ（心动幸运悸动）》歌词翻译
 published: 2025-08-05
 description: 游戏《常轨脱离Creative凸》锦明日海线片尾曲
 image: ./covers/tokirakimeki.png

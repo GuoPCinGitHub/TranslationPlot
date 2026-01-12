@@ -1,5 +1,5 @@
 ---
-title: 空回りのエアメール（枉费心思的空中邮件）
+title: 《空回りのエアメール（枉费心思的空中邮件）》歌词翻译
 published: 2024-12-22
 description: 动画《真实之泪》登场角色安藤爱子印象曲
 image: ./covers/tears...for_truth.png

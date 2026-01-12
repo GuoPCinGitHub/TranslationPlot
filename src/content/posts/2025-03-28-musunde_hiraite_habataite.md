@@ -1,5 +1,5 @@
 ---
-title: むすんで、ひらいて、はばたいて。（彼此连系、携手开启、共赴高飞。）
+title: 《むすんで、ひらいて、はばたいて。（彼此连系、携手开启、共赴高飞。）》歌词翻译
 published: 2025-03-28
 description: 游戏《放学后的灰姑娘2》插曲
 image: ./covers/houkago_cinderella_2_original_soundtrack.png

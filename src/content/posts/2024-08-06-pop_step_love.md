@@ -1,5 +1,5 @@
 ---
-title: POP STEP LOVE
+title: 《POP STEP LOVE》歌词翻译
 published: 2024-08-06
 description: TV动画《纯白交响曲 -The color of lovers-》濑名爱理角色歌
 image: ./covers/mashiroiro_symphony_character_palette_vol_1.png

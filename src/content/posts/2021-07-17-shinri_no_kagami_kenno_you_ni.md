@@ -1,5 +1,5 @@
 ---
-title: 真理の鏡、剣乃ように（真理之镜，如同利剑）
+title: 《真理の鏡、剣乃ように（真理之镜，如同利剑）》歌词翻译
 published: 2021-07-17
 description: 动画《在世界尽头咏唱恋曲的少女YU-NO》片尾曲
 image: ./covers/shinri_no_kagami_kenno_you_ni.png

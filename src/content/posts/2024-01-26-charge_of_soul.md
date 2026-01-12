@@ -1,5 +1,5 @@
 ---
-title: Charge Of Soul
+title: 《Charge Of Soul》歌词翻译
 published: 2024-01-26
 description: 游戏《天神乱漫》卯花之佐久夜姬角色歌
 image: ./covers/tenshin_ranman_character_song_vol_1.png

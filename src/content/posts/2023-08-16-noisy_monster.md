@@ -1,5 +1,5 @@
 ---
-title: NOiSY MONSTER
+title: 《NOiSY MONSTER》歌词翻译
 published: 2023-08-16
 description: TV动画《SELECTION PROJECT》插曲
 image: ./covers/tv_anime_selection_project_unit_song_cd.png

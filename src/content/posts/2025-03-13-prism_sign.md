@@ -1,5 +1,5 @@
 ---
-title: プリズム・サイン（Prism Sign）
+title: 《プリズム・サイン（Prism Sign）》歌词翻译
 published: 2025-03-13
 description: 动画《真实之泪》三周年纪念曲
 image: ./covers/prism_sign.png

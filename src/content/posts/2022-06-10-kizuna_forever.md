@@ -1,5 +1,5 @@
 ---
-title: 絆ふぉーえばー（羁绊forever）
+title: 《絆ふぉーえばー（羁绊forever）》歌词翻译
 published: 2022-06-10
 description: 多媒体企划《兽娘动物园》曲目
 image: ./covers/batten_batten_batten.png

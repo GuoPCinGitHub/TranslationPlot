@@ -1,5 +1,5 @@
 ---
-title: true love song
+title: 《true love song》歌词翻译
 published: 2025-01-13
 description: 动画《真实之泪》印象曲专辑《Tears...for truth ～true tearsイメージソング集～》收录曲
 image: ./covers/tears...for_truth.png

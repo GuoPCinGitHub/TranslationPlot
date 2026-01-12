@@ -1,5 +1,5 @@
 ---
-title: My Eyes Only
+title: 《My Eyes Only》歌词翻译
 published: 2020-12-11
 description: 动画《女神异闻录4 黄金版动画》插曲
 image: ./covers/persona4_the_golden_animation_original_soundtrack_vol_5.png

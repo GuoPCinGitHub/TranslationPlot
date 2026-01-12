@@ -1,5 +1,5 @@
 ---
-title: 透明な羽根で（借透明的羽翼）
+title: 《透明な羽根で（借透明的羽翼）》歌词翻译
 published: 2025-01-07
 description: 动画《真实之泪》登场角色石动乃绘角色歌
 image: ./covers/tears...for_truth.png

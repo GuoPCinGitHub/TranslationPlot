@@ -1,5 +1,5 @@
 ---
-title: 恋の爆弾（恋之炸弹）
+title: 《恋の爆弾（恋之炸弹）》歌词翻译
 published: 2024-03-01
 description: 游戏《Noble☆Works》兼元灯里角色歌
 image: ./covers/noble_works_character_song_vol_1.png

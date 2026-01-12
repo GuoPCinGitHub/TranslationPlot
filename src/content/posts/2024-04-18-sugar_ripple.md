@@ -1,5 +1,5 @@
 ---
-title: Sugar Ripple
+title: 《Sugar Ripple》歌词翻译
 published: 2024-04-18
 description: 游戏《魔卡魅恋！》片尾曲
 image: ./covers/enlever.png

@@ -1,5 +1,5 @@
 ---
-title: 雨の夜 虹の朝（落雨的夜晚 架虹的清晨）
+title: 《雨の夜 虹の朝（落雨的夜晚 架虹的清晨）》歌词翻译
 published: 2025-02-25
 description: 动画《真实之泪》登场角色汤浅比吕美角色歌
 image: ./covers/nostalgic_arietta.png

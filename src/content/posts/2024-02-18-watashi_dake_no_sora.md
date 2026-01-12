@@ -1,5 +1,5 @@
 ---
-title: 私だけの空（只属于我的天空）
+title: 《私だけの空（只属于我的天空）》歌词翻译
 published: 2024-02-18
 description: 游戏《天色幻想岛》天雾夕音角色歌
 image: ./covers/amairo_islenauts_character_song_vol_2.png

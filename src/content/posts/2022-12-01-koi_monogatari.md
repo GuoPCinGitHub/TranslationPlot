@@ -1,5 +1,5 @@
 ---
-title: 恋物語（恋物语）
+title: 《恋物語（恋物语）》歌词翻译
 published: 2022-12-01
 description: 游戏《现在就想告诉哥哥，我是妹妹！》三谷步梦线片尾曲
 image: ./covers/pc_game_imasugu_oniichan_ni_imouto_datte_iitai_vocal_album.png

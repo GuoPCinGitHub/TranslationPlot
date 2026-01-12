@@ -1,5 +1,5 @@
 ---
-title: どきどき黙示録（心跳不已默示录）
+title: 《どきどき黙示録（心跳不已默示录）》歌词翻译
 published: 2022-12-27
 description: 多媒体企划《兽娘动物园》曲目
 image: ./covers/batten_batten_batten.png

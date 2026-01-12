@@ -1,5 +1,5 @@
 ---
-title: Baby→Lady LOVE
+title: 《Baby→Lady LOVE》歌词翻译
 published: 2021-08-07
 description: OVA《猫娘乐园》片头曲
 image: ./covers/nekopara_ova_original_soundtrack.png

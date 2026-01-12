@@ -1,5 +1,5 @@
 ---
-title: 恋する名探偵（恋爱名侦探）
+title: 《恋する名探偵（恋爱名侦探）》歌词翻译
 published: 2020-10-28
 description: 《女神异闻录4 动画版》片尾曲
 image: ./covers/persona4_the_animation_vol_7_bonus_cd.png

@@ -1,5 +1,5 @@
 ---
-title: Ever After School
+title: 《Ever After School》歌词翻译
 published: 2025-02-21
 description: 游戏《放学后的灰姑娘 Mini Fandisk ～与你所走的最后一次放学路～》片尾曲
 tags: ["放学后的灰姑娘", "主题曲", "はな演唱", "永原さくら作词", "A-DASH作曲"]

@@ -1,5 +1,5 @@
 ---
-title: Real intention
+title: 《Real intention》歌词翻译
 published: 2025-07-28
 description: 游戏《常轨脱离Creative》和泉妃爱线片尾曲
 image: ./covers/hamidashi_creative_vocal_album.png

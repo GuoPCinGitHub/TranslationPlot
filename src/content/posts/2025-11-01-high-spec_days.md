@@ -1,5 +1,5 @@
 ---
-title: ハイスペックDays（High-Spec Days）
+title: 《ハイスペックDays（High-Spec Days）》歌词翻译
 published: 2025-11-01
 description: TV动画《任性High Spec》主题曲
 image: ./covers/high-spec_days.png

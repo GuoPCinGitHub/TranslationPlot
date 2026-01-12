@@ -1,5 +1,5 @@
 ---
-title: Linked☆Lovers
+title: 《Linked☆Lovers》歌词翻译
 published: 2025-01-22
 description: 游戏《lover able》插曲
 image: ./covers/lover_able_original_full_soundtrack.png

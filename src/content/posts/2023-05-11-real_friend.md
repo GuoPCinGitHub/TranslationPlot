@@ -1,5 +1,5 @@
 ---
-title: リアルフレンド（Real Friend）
+title: 《リアルフレンド（Real Friend）》歌词翻译
 published: 2023-05-11
 description: 游戏《魔女的夜宴》因幡巡角色歌
 image: ./covers/sanoba_witch_character_song_vol_2.png

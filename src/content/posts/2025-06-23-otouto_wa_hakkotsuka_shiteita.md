@@ -1,5 +1,5 @@
 ---
-title: 弟は白骨化していた（弟弟化作了一堆白骨）
+title: 《弟は白骨化していた（弟弟化作了一堆白骨）》歌词翻译
 published: 2025-06-23
 description: TV动画《学生会的一己之见》DVD同捆CD收录歌曲
 image: ./covers/tv_anime_seitokai_no_ichizon_best_album_complete_suru_seitokai.png

@@ -1,5 +1,5 @@
 ---
-title: 新世界（新世界）
+title: 《新世界（新世界）》歌词翻译
 published: 2021-11-19
 description: 动画电影《HELLO WORLD》主题曲
 image: ./covers/hello_world_original_soundtrack.png

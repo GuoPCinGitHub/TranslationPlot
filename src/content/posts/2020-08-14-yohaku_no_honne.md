@@ -1,5 +1,5 @@
 ---
-title: 余白のほんね（留白的心声）
+title: 《余白のほんね（留白的心声）》歌词翻译
 published: 2020-08-14
 description: 游戏《魔法纪录 魔法少女小圆外传》第一部片尾曲
 image: ./covers/yohaku_no_honne.png

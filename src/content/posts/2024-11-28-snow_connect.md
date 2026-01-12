@@ -1,5 +1,5 @@
 ---
-title: Snow×Connect
+title: 《Snow×Connect》歌词翻译
 published: 2024-11-28
 description: 游戏《PURE×CONNECT》片头曲
 image: ./covers/pure_connect_original_soundtrack.png

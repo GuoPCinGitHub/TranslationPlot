@@ -1,5 +1,5 @@
 ---
-title: Many Stories
+title: 《Many Stories》歌词翻译
 published: 2020-09-13
 description: 动画《BEASTARS》第1话插曲
 image: ./covers/tv_anime_beastars_original_sound_tracks.png

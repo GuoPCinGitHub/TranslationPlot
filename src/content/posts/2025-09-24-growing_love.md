@@ -1,5 +1,5 @@
 ---
-title: growing love!
+title: 《growing love!》歌词翻译
 published: 2025-09-24
 description: 游戏《树莓立方体》狩野凑线片尾曲
 image: ./covers/raspberry_cube_vocal_album.png

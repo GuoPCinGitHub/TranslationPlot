@@ -1,5 +1,5 @@
 ---
-title: colorful canvas♯
+title: 《colorful canvas♯》歌词翻译
 published: 2025-08-15
 description: TV动画《常轨脱离Creative》登场角色常磐华乃角色歌
 image: ./covers/hamidashi_creative_character_song_album.png

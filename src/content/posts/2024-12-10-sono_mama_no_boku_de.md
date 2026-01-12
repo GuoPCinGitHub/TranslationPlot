@@ -1,5 +1,5 @@
 ---
-title: そのままの僕で（以本真的我）
+title: 《そのままの僕で（以本真的我）》歌词翻译
 published: 2024-12-10
 description: 动画《真实之泪》第10话插曲
 image: ./covers/tears...for_truth.png

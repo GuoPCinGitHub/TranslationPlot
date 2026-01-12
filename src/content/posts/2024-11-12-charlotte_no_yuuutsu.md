@@ -1,5 +1,5 @@
 ---
-title: シャルロットの憂鬱（夏洛特的忧郁）
+title: 《シャルロットの憂鬱（夏洛特的忧郁）》声优访谈与歌词翻译
 published: 2024-11-12
 description: 游戏《Friend to Lover ～Fureraba～》柊柚夕角色歌
 image: ./covers/friend_to_lover_furefaba_character_song_cd.png

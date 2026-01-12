@@ -1,5 +1,5 @@
 ---
-title: Gravitation
+title: 《Gravitation》歌词翻译
 published: 2020-08-10
 description: 动画《魔法禁书目录 第三季》片头曲
 image: ./covers/gravitation.png

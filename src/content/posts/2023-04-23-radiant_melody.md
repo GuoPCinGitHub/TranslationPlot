@@ -1,5 +1,5 @@
 ---
-title: radiant melody
+title: 《radiant melody》歌词翻译
 published: 2023-04-23
 description: TV动画《TARI TARI》第13话插曲
 image: ./covers/tv_anime_tari_tari_music_album_utattari_kanadetari.png

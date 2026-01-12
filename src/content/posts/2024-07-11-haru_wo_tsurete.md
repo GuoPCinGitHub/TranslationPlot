@@ -1,5 +1,5 @@
 ---
-title: 春を連れて（带来春天）
+title: 《春を連れて（带来春天）》歌词翻译
 published: 2024-07-11
 description: 游戏《纯白交响曲 SANA EDITION》片尾曲
 image: ./covers/mashiroiro_symphony_sana_edition_maxi_single.png

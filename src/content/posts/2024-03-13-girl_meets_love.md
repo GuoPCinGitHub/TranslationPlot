@@ -1,5 +1,5 @@
 ---
-title: Girl meets Love
+title: 《Girl meets Love》歌词翻译
 published: 2024-03-13
 description: 游戏《花开Work Spring！》片头曲
 image: ./covers/hanasaki_work_spring_complete_soundtrack.png

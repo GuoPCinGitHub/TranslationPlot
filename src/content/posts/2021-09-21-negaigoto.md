@@ -1,5 +1,5 @@
 ---
-title: NEGAIGOTO
+title: 《NEGAIGOTO》歌词翻译
 published: 2021-09-21
 description: 游戏《NEKOPARA Vol.4》片尾曲
 image: ./covers/nekopara_vol_4_op_ed.png

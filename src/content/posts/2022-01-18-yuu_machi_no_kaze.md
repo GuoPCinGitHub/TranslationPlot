@@ -1,5 +1,5 @@
 ---
-title: 夕待ちの風（等待黄昏的风）
+title: 《夕待ちの風（等待黄昏的风）》歌词翻译
 published: 2022-01-18
 description: 动画《草莓棉花糖OVA》片尾曲
 image: ./covers/ichigo_mashmallow_ova_sweet-cd_2.png

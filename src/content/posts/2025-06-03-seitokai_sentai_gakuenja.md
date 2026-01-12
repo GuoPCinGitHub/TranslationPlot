@@ -1,5 +1,5 @@
 ---
-title: 生徒会戦隊ガクエンジャー（学生会战队学园连者）
+title: 《生徒会戦隊ガクエンジャー（学生会战队学园连者）》歌词翻译
 published: 2025-06-03
 description: TV动画《学生会的一己之见》登场角色椎名深夏角色歌
 image: ./covers/tv_anime_seitokai_no_ichizon_character_fan_disc_shiina_minatsu.png

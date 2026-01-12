@@ -1,5 +1,5 @@
 ---
-title: サイダーみたいな恋をして（谈一场汽水般的恋爱）
+title: 《サイダーみたいな恋をして（谈一场汽水般的恋爱）》歌词翻译
 published: 2025-07-01
 description: 动画《ShowTime!2～唱歌的大姐姐也想做～》ED主题曲
 image: ./covers/cider_mitai_na_koi_wo_shite.png

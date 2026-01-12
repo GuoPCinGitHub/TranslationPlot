@@ -1,5 +1,5 @@
 ---
-title: 夜を越える（跨越黑夜）
+title: 《夜を越える（跨越黑夜）》歌词翻译
 published: 2025-02-03
 description: 游戏《播种之谣》片头曲
 image: ./covers/tanetsumi_no_uta_original_soundtrack.png

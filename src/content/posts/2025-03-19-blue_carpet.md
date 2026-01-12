@@ -1,5 +1,5 @@
 ---
-title: 《ブルーカーペット（Blue Carpet）》歌词翻译
+title: 《《ブルーカーペット（Blue Carpet）》歌词翻译》歌词翻译
 published: 2025-03-19
 description: 游戏《放学后的灰姑娘2》主题曲
 image: ./covers/houkago_cinderella_2_original_soundtrack.png

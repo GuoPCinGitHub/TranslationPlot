@@ -1,5 +1,5 @@
 ---
-title: Brightness
+title: 《Brightness》歌词翻译
 published: 2025-11-29
 description: 游戏《任性High Spec OC》鹰司千岁线片尾曲
 image: ./covers/wagamama_high_spec_oc_vocal_album.png

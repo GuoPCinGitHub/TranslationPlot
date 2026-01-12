@@ -1,5 +1,5 @@
 ---
-title: インコンプリートノーツ（Incomplete Notes）
+title: 《インコンプリートノーツ（Incomplete Notes）》歌词翻译
 published: 2022-04-30
 description: 动画《消灭都市》第1话插曲
 image: ./covers/incomplete_notes.png

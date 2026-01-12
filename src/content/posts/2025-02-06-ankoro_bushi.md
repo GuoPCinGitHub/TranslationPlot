@@ -1,5 +1,5 @@
 ---
-title: あんころ節（红豆年糕节）
+title: 《あんころ節（红豆年糕节）》歌词翻译
 published: 2025-02-06
 description: TV动画《SELECTION PROJECT》第7话插曲
 image: ./covers/selection_project_character_song_cd_03.png

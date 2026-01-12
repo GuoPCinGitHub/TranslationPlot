@@ -1,5 +1,5 @@
 ---
-title: Sunny Day Sunday
+title: 《Sunny Day Sunday》歌词翻译
 published: 2024-11-24
 description: 动画《ReLIFE》第6话片尾曲
 image: ./covers/sunny_day_sunday.png

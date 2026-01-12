@@ -1,5 +1,5 @@
 ---
-title: 大好き♡スパイラル（最喜欢♡螺旋形）
+title: 《大好き♡スパイラル（最喜欢♡螺旋形）》歌词翻译
 published: 2024-07-15
 description: 《纯白交响曲 原创剧集》濑名爱理角色歌
 image: ./covers/mashiroiro_symphony_original_drama_series_sound_portrait.png

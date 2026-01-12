@@ -1,5 +1,5 @@
 ---
-title: 肩越しの空（越过肩膀的天空）
+title: 《肩越しの空（越过肩膀的天空）》歌词翻译
 published: 2025-02-14
 description: 广播节目《true tears こちらチューリップ放送局 えくすてんど》主题曲
 image: ./covers/nostalgic_arietta.png

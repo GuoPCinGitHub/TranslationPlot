@@ -1,5 +1,5 @@
 ---
-title: Get Into My Heart
+title: 《Get Into My Heart》歌词翻译
 published: 2021-07-08
 description: 动画《付丧神出租中》片头曲
 image: ./covers/get_into_my_heart.png

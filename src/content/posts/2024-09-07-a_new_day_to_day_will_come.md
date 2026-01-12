@@ -1,5 +1,5 @@
 ---
-title: A new day-to-day will come.
+title: 《A new day-to-day will come.》歌词翻译
 published: 2024-09-07
 description: 游戏《春天的谎言 -Passing Memories-》主题曲
 image: ./covers/uso_series_complete_vocal_album.png

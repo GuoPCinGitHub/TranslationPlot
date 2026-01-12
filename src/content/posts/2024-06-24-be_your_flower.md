@@ -1,5 +1,5 @@
 ---
-title: Be your Flower
+title: 《Be your Flower》歌词翻译
 published: 2024-06-24
 description: 游戏《星恋＊Twinkle》片尾曲
 tags: ["星恋＊Twinkle", "片尾曲", "RUCCA作词", "藤田淳平作曲"]

@@ -1,5 +1,5 @@
 ---
-title: step forward
+title: 《step forward》歌词翻译
 published: 2024-02-15
 description: 游戏《天色幻想岛》夏莉·沃利克角色歌
 image: ./covers/amairo_islenauts_character_song_vol_1.png

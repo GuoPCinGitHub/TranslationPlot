@@ -1,5 +1,5 @@
 ---
-title: クラス・メイト（Classmate）
+title: 《クラス・メイト（Classmate）》歌词翻译
 published: 2021-12-21
 description: 动画《草莓棉花糖》片尾曲
 image: ./covers/ichigo_mashmallow_original_soundtrack.png

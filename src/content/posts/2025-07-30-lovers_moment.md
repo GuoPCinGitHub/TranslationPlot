@@ -1,5 +1,5 @@
 ---
-title: Lovers Moment
+title: 《Lovers Moment》歌词翻译
 published: 2025-07-30
 description: 游戏《常轨脱离Creative》镰仓诗樱线片尾曲
 image: ./covers/hamidashi_creative_vocal_album.png

@@ -1,5 +1,5 @@
 ---
-title: ☆ぱ・ぴ・ぷ・ぺ・ぽりしー☆（☆Pa·Pi·Pu·Pe·Policy☆）
+title: 《☆ぱ・ぴ・ぷ・ぺ・ぽりしー☆（☆Pa·Pi·Pu·Pe·Policy☆）》歌词翻译
 published: 2024-09-27
 description: TV动画《学生会的一己之见 Lv.2》第6话片尾曲
 image: ./covers/anime_seitokai_no_ichizon_lv.2_ending_shuu_collection_suru_seitokai.png

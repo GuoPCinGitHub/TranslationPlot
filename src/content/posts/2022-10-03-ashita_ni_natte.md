@@ -1,5 +1,5 @@
 ---
-title: 明日になって（化作明日）
+title: 《明日になって（化作明日）》歌词翻译
 published: 2022-10-03
 description: 游戏《现在就想告诉哥哥，我是妹妹！》茂森真央角色曲
 image: ./covers/pc_game_imasugu_oniichan_ni_imouto_datte_iitai_vocal_album.png

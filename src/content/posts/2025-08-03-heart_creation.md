@@ -1,5 +1,5 @@
 ---
-title: Heart Creation
+title: 《Heart Creation》歌词翻译
 published: 2025-08-03
 description: 游戏《常轨脱离Creative凸》和泉妃爱线片尾曲
 image: ./covers/heart_creation.png

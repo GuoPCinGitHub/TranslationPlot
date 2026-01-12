@@ -1,5 +1,5 @@
 ---
-title: うさまろ⦸ハンター（兔兔棉花糖⦸猎人）
+title: 《うさまろ⦸ハンター（兔兔棉花糖⦸猎人）》歌词翻译
 published: 2025-04-19
 description: TV动画《学生会的一己之见》登场角色樱野栗梦角色歌
 image: ./covers/tv_anime_seitokai_no_ichizon_character_fan_disc_sakurano_kurimu.png

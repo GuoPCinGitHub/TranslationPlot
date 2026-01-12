@@ -1,5 +1,5 @@
 ---
-title: SWEET×SWEET
+title: 《SWEET×SWEET》歌词翻译
 published: 2021-05-31
 description: 游戏《NEKOPARA Vol.4》片头曲
 image: ./covers/nekopara_vol_4_op_ed.png

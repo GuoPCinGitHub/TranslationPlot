@@ -1,5 +1,5 @@
 ---
-title: だから僕は僕を手放す（所以我放开我的手）
+title: 《だから僕は僕を手放す（所以我放开我的手）》歌词翻译
 published: 2021-03-17
 description: 动画《重启咲良田》片头曲
 image: ./covers/id_2.png

@@ -1,5 +1,5 @@
 ---
-title: もうひとつの空（另一片天空）
+title: 《もうひとつの空（另一片天空）》歌词翻译
 published: 2025-02-16
 description: 动画《真实之泪》登场角色石动乃绘角色歌
 image: ./covers/nostalgic_arietta.png

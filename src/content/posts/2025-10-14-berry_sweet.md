@@ -1,5 +1,5 @@
 ---
-title: ベリースイート（浆果之甜）
+title: 《ベリースイート（浆果之甜）》歌词翻译
 published: 2025-10-14
 description: 动画《ReLIFE》登场角色大神和臣角色歌
 image: ./covers/relife_character_song_vol_3.png

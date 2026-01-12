@@ -1,5 +1,5 @@
 ---
-title: No merit to me
+title: 《No merit to me》歌词翻译
 published: 2025-05-21
 description: TV动画《学生会的一己之见》登场角色红叶知弦角色歌
 image: ./covers/tv_anime_seitokai_no_ichizon_character_fan_disc_akaba_chizuru.png

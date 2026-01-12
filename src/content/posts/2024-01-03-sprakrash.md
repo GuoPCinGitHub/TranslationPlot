@@ -1,5 +1,5 @@
 ---
-title: SPARKRASH
+title: 《SPARKRASH》歌词翻译
 published: 2024-01-03
 description: TV动画《SELECTION PROJECT》插曲
 image: ./covers/tv_anime_selection_project_unit_song_cd.png

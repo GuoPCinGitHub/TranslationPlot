@@ -1,5 +1,5 @@
 ---
-title: SHINPAI MUYOU
+title: 《SHINPAI MUYOU》歌词翻译
 published: 2025-08-17
 description: 游戏《无畏契约》太平洋国际联赛2025赛季主题曲
 image: ./covers/shinpai_muyou.png

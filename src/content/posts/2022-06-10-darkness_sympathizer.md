@@ -1,5 +1,5 @@
 ---
-title: Darkness sympathizer
+title: 《Darkness sympathizer》歌词翻译
 published: 2022-06-10
 description: 多媒体企划《IDOLY PRIDE》曲目
 image: ./covers/darkness_sympathizer.png

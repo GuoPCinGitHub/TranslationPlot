@@ -1,5 +1,5 @@
 ---
-title: 翼の詩（翼之诗）
+title: 《翼の詩（翼之诗）》歌词翻译
 published: 2023-01-08
 description: 游戏《现在就想告诉哥哥，我是妹妹！》茂森真央线片尾曲
 image: ./covers/pc_game_imasugu_oniichan_ni_imouto_datte_iitai_vocal_album.png

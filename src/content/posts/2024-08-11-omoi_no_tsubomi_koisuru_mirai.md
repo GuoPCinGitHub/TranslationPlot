@@ -1,5 +1,5 @@
 ---
-title: 想いの蕾 恋する未来（思念的花蕾 相恋的未来）
+title: 《想いの蕾 恋する未来（思念的花蕾 相恋的未来）》歌词翻译
 published: 2024-08-11
 description: TV动画《纯白交响曲 -The color of lovers-》天羽美羽角色歌
 image: ./covers/mashiroiro_symphony_character_palette_vol_2.png

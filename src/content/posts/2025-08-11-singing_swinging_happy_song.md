@@ -1,5 +1,5 @@
 ---
-title: Singing Swinging Happy Song
+title: 《Singing Swinging Happy Song》歌词翻译
 published: 2025-08-11
 description: TV动画《常轨脱离Creative》登场角色和泉妃爱角色歌
 image: ./covers/hamidashi_creative_character_song_album.png

@@ -1,5 +1,5 @@
 ---
-title: たねつみの歌（播种之谣）
+title: 《たねつみの歌（播种之谣）》歌词翻译
 published: 2025-02-04
 description: 游戏《播种之谣》片尾曲
 image: ./covers/tanetsumi_no_uta_original_soundtrack.png

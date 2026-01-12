@@ -1,5 +1,5 @@
 ---
-title: crazy blood to you
+title: 《crazy blood to you》歌词翻译
 published: 2024-11-22
 description: 游戏《秋天的谎言 -The only neat thing to do-》主题曲
 image: ./covers/uso_series_complete_vocal_album.png

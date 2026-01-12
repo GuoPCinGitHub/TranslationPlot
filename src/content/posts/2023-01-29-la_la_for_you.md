@@ -1,5 +1,5 @@
 ---
-title: la la for you
+title: 《la la for you》歌词翻译
 published: 2023-01-29
 description: 游戏《猫忍之心》片头曲
 image: ./covers/whirlpool_vocal_song_shuu_vol_5_sunny.png

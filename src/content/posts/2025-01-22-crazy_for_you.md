@@ -1,5 +1,5 @@
 ---
-title: Crazy for you☆
+title: 《Crazy for you☆》歌词翻译
 published: 2025-01-22
 description: 游戏《lover able》主题曲
 image: ./covers/lover_able_original_full_soundtrack.png

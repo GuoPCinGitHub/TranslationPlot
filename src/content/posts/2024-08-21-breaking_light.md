@@ -1,5 +1,5 @@
 ---
-title: breaking light
+title: 《breaking light》歌词翻译
 published: 2024-08-21
 description: 游戏《AMBITIOUS MISSION》片头曲
 image: ./covers/ambitious_mission_complete_soundtrack.png

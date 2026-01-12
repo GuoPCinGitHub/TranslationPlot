@@ -1,5 +1,5 @@
 ---
-title: 桜色の轍（樱色车辙）
+title: 《桜色の轍（樱色车辙）》歌词翻译
 published: 2024-10-28
 description: 游戏《现在就想告诉哥哥，我是妹妹！》茂森真央和拜田希实花角色曲
 image: ./covers/imasugu_oniichan_ni_imouto_datte_iitai_original_soundtrack_2.png

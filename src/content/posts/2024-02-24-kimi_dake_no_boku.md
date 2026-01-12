@@ -1,5 +1,5 @@
 ---
-title: 君だけの僕（只属于你的我）
+title: 《君だけの僕（只属于你的我）》歌词翻译
 published: 2024-02-24
 description: 游戏《DRACU-RIOT!》片尾曲
 image: ./covers/dracu-riot_original_soundtrack.png

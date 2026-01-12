@@ -1,5 +1,5 @@
 ---
-title: ..., Fine later!!
+title: 《..., Fine later!!》歌词翻译
 published: 2025-08-20
 description: 游戏《苍之彼方的四重奏 EXTRA2》片尾曲
 image: ./covers/ao_no_kanata_no_four_rhythm_extra2_vocal_&_sound_collection.png

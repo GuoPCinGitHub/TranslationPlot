@@ -1,5 +1,5 @@
 ---
-title: SUKI!?～どんな味？～（喜欢!?～是什么味道？～）
+title: 《SUKI!?～どんな味？～（喜欢!?～是什么味道？～）》歌词翻译
 published: 2024-10-17
 description: OAD《学生会的一己之见 Lv.2 送礼的学生会》片尾曲
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 不思議の国の青年アリス（不可思议之国的青年爱丽丝）
+title: 《不思議の国の青年アリス（不可思议之国的青年爱丽丝）》歌词翻译
 published: 2021-08-05
 description: 游戏《A3!》2.5次元舞台剧歌曲
 image: ./covers/mankai_stage_a3_spring_2019_music_collection.png

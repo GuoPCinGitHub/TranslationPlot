@@ -1,5 +1,5 @@
 ---
-title: 曖昧アフェット（暧昧情愫）
+title: 《曖昧アフェット（暧昧情愫）》歌词翻译
 published: 2025-09-17
 description: 游戏《树莓立方体》海道美琴线片尾曲
 image: ./covers/raspberry_cube_vocal_album.png

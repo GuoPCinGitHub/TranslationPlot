@@ -1,5 +1,5 @@
 ---
-title: ▲MEW▲△MEW△CAKE
+title: 《▲MEW▲△MEW△CAKE》歌词翻译
 published: 2021-08-13
 description: OVA《猫娘乐园》片尾曲
 image: ./covers/nekopara_ova_original_soundtrack.png

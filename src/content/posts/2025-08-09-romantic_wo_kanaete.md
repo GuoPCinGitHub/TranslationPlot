@@ -1,5 +1,5 @@
 ---
-title: ロマンチックを叶えて（实现浪漫）
+title: 《ロマンチックを叶えて（实现浪漫）》歌词翻译
 published: 2025-08-09
 description: 游戏《常轨脱离Creative Re:Re:call》片尾曲
 image: ./covers/romantic_wo_kanaete.png

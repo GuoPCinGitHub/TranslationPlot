@@ -1,5 +1,5 @@
 ---
-title: SELECTION HEROINE
+title: 《SELECTION HEROINE》歌词翻译
 published: 2025-02-11
 description: TV动画《SELECTION PROJECT》印象曲
 image: ./covers/tv_anime_selection_project_main_theme_cd.png

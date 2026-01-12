@@ -1,5 +1,5 @@
 ---
-title: 君がくれた光（你所给予的光芒）
+title: 《君がくれた光（你所给予的光芒）》歌词翻译
 published: 2020-10-14
 description: 游戏《魔女的夜宴》户隐憧子线片尾曲
 image: ./covers/sanoba_witch_original_soundtrack.png

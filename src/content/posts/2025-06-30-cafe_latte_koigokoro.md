@@ -1,5 +1,5 @@
 ---
-title: カフェラテ恋ゴコロ（咖啡拿铁的恋心）
+title: 《カフェラテ恋ゴコロ（咖啡拿铁的恋心）》歌词翻译
 published: 2025-06-30
 description: 动画《ShowTime!～唱歌的大姐姐也想做～》ED主题曲
 image: ./covers/cafe_latte_koigokoro.png

@@ -1,5 +1,5 @@
 ---
-title: 苺すぷらっしゅ（草莓splash）
+title: 《苺すぷらっしゅ（草莓splash）》歌词翻译
 published: 2022-01-16
 description: 动画《草莓棉花糖 encore》片头曲
 image: ./covers/ichigo_mashmallow_encore_op_ichigo_splash.png

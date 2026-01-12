@@ -1,5 +1,5 @@
 ---
-title: 羊が一匹、二匹数えて寝ましょう（数羊睡觉吧）
+title: 《羊が一匹、二匹数えて寝ましょう（数羊睡觉吧）》歌词翻译
 published: 2024-09-18
 description: TV动画《学生会的一己之见 Lv.2》第2话片尾曲
 image: ./covers/anime_seitokai_no_ichizon_lv.2_ending_shuu_collection_suru_seitokai.png

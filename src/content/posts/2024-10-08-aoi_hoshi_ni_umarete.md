@@ -1,5 +1,5 @@
 ---
-title: 青い星に生まれて（生于蓝色星球）
+title: 《青い星に生まれて（生于蓝色星球）》歌词翻译
 published: 2024-10-08
 description: TV动画《学生会的一己之见 Lv.2》第8话片尾曲
 image: ./covers/anime_seitokai_no_ichizon_lv.2_ending_shuu_collection_suru_seitokai.png

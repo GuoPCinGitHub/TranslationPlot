@@ -1,5 +1,5 @@
 ---
-title: はなさくいろは（花开伊吕波）
+title: 《はなさくいろは（花开伊吕波）》歌词翻译
 published: 2023-08-02
 description: TV动画《花开伊吕波》片尾曲
 image: ./covers/hanasaku_iroha.png

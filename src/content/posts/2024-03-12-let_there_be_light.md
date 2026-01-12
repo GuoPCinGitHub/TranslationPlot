@@ -1,5 +1,5 @@
 ---
-title: Let there be light
+title: 《Let there be light》歌词翻译
 published: 2024-03-12
 description: 游戏《花之天使的夏日恋歌》Grand ED
 image: ./covers/floral_flowlove_complete_sound_track.png

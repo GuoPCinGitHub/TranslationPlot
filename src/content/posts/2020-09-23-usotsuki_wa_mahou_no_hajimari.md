@@ -1,5 +1,5 @@
 ---
-title: 嘘つきは魔法のはじまり（谎言是魔法的开始）
+title: 《嘘つきは魔法のはじまり（谎言是魔法的开始）》歌词翻译
 published: 2020-09-23
 description: 游戏《A3!》满开剧团 春组歌曲
 image: ./covers/a3_vivid_spring_ep.png

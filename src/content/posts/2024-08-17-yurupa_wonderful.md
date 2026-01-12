@@ -1,5 +1,5 @@
 ---
-title: ゆるぱ☆わンダフル（软绵绵☆Wonderful）
+title: 《ゆるぱ☆わンダフル（软绵绵☆Wonderful）》歌词翻译
 published: 2024-08-17
 description: TV动画《学生会的一己之见》第9、10、12话片尾曲
 tags:

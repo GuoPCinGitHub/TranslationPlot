@@ -1,5 +1,5 @@
 ---
-title: MUGEN∞MIRAI
+title: 《MUGEN∞MIRAI》歌词翻译
 published: 2024-01-23
 description: 游戏《天神乱漫》片尾曲
 image: ./covers/tenshin_ranman_original_soundtrack.png

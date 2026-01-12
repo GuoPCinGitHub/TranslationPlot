@@ -1,5 +1,5 @@
 ---
-title: Cinderella Street
+title: 《Cinderella Street》歌词翻译
 published: 2025-02-20
 description: 游戏《放学后的灰姑娘》主题曲、游戏《放学后的灰姑娘2》片尾曲
 image: ./covers/houkago_cinderella_original_soundtrack.png

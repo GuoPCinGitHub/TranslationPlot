@@ -1,5 +1,5 @@
 ---
-title: 想いはCarnaval（思慕是场Carnaval）
+title: 《想いはCarnaval（思慕是场Carnaval）》歌词翻译
 published: 2020-08-16
 description: 游戏《偶像大师 百万现场》曲目
 image: ./covers/the_idolmaster_live_theater_performance_11.png

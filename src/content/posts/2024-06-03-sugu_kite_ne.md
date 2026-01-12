@@ -1,5 +1,5 @@
 ---
-title: ・・・すぐ来てね（…请马上来吧）
+title: 《・・・すぐ来てね（…请马上来吧）》歌词翻译
 published: 2024-06-03
 description: 游戏《金辉恋曲四重奏 -Golden Time-》片尾曲
 image: ./covers/kin-iro_loveriche_gold_best.png

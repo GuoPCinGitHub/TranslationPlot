@@ -1,5 +1,5 @@
 ---
-title: キミイロミライ（君色未来）
+title: 《キミイロミライ（君色未来）》歌词翻译
 published: 2024-07-04
 description: 游戏《纯白交响曲 -Love is pure white-》片尾曲
 image: ./covers/mashiroiro_symphony_soundtrack.png

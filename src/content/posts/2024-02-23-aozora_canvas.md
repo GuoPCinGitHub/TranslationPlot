@@ -1,5 +1,5 @@
 ---
-title: アオゾラキャンバス（青空画布）
+title: 《アオゾラキャンバス（青空画布）》歌词翻译
 published: 2024-02-23
 description: 游戏《天色幻想岛》白鹿爱莉角色歌
 image: ./covers/amairo_islenauts_character_song_vol_3.png

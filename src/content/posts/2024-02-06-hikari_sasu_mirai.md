@@ -1,5 +1,5 @@
 ---
-title: 光差す未来（洒满阳光的未来）
+title: 《光差す未来（洒满阳光的未来）》歌词翻译
 published: 2024-02-06
 description: 游戏《Noble☆Works》片尾曲
 image: ./covers/noble_works_original_soundtrack.png

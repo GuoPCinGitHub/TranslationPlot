@@ -1,5 +1,5 @@
 ---
-title: 優しい時間（温柔的时光）
+title: 《優しい時間（温柔的时光）》歌词翻译
 published: 2024-07-22
 description: 《纯白交响曲 原创剧集》天羽美羽角色歌
 image: ./covers/mashiroiro_symphony_original_drama_series_sound_portrait.png

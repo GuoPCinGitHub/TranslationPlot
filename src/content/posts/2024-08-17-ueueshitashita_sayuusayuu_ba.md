@@ -1,5 +1,5 @@
 ---
-title: 上上下下左右左右BA（上上下下左右左右BA）
+title: 《上上下下左右左右BA（上上下下左右左右BA）》歌词翻译
 published: 2024-08-17
 description: TV动画《学生会的一己之见》第2、5、6、8话片尾曲
 image: ./covers/mousou_fetish.png

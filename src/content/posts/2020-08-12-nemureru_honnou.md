@@ -1,5 +1,5 @@
 ---
-title: 眠れる本能（沉睡的本能）
+title: 《眠れる本能（沉睡的本能）》歌词翻译
 published: 2020-08-12
 description: 动画《BEASTARS》第3、7、10话片尾曲
 image: ./covers/tv_anime_beastars_ending_theme_le_zoo.png

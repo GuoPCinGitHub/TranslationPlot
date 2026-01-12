@@ -1,5 +1,5 @@
 ---
-title: メディアの違いを理解せよ！（弄清楚不同媒介的区别！）
+title: 《メディアの違いを理解せよ！（弄清楚不同媒介的区别！）》歌词翻译
 published: 2025-04-24
 description: TV动画《学生会的一己之见》登场角色樱野栗梦角色歌
 image: ./covers/tv_anime_seitokai_no_ichizon_character_fan_disc_sakurano_kurimu.png

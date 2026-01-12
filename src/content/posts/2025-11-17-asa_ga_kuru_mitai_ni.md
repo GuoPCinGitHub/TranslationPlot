@@ -1,5 +1,5 @@
 ---
-title: 朝が来るみたいに（若天将晓）
+title: 《朝が来るみたいに（若天将晓）》歌词翻译
 published: 2025-11-17
 description: 游戏《任性High Spec OC》鸣海兔亚线片尾曲
 image: ./covers/wagamama_high_spec_oc_vocal_album.png

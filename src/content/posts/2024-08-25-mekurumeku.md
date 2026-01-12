@@ -1,5 +1,5 @@
 ---
-title: めくるめく（目眩魂牵）
+title: 《めくるめく（目眩魂牵）》歌词翻译
 published: 2024-08-25
 description: 游戏《AMBITIOUS MISSION》片尾曲
 image: ./covers/ambitious_mission_complete_soundtrack.png

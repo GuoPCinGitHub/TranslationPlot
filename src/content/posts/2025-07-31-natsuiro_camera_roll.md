@@ -1,5 +1,5 @@
 ---
-title: 夏色カメラロール（夏色胶卷）
+title: 《夏色カメラロール（夏色胶卷）》歌词翻译
 published: 2025-07-31
 description: 游戏《常轨脱离Creative凸》龙闲天梨线片尾曲
 image: ./covers/natsuiro_camera_roll.png

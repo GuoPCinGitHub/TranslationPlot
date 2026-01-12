@@ -1,5 +1,5 @@
 ---
-title: 100にゃんパワーで夢心地（100喵能量恍如梦境）
+title: 《100にゃんパワーで夢心地（100喵能量恍如梦境）》歌词翻译
 published: 2021-02-10
 description: 游戏《NEKOPARA Vol.2》片尾曲
 image: ./covers/nekopara_vol_2_op_ed.png

@@ -1,5 +1,5 @@
 ---
-title: さよなら君の声（再见了你的声音）
+title: 《さよなら君の声（再见了你的声音）》歌词翻译
 published: 2024-07-06
 description: 游戏《纯白交响曲 -Love is pure white-》天羽美羽线插曲
 image: ./covers/mashiroiro_symphony_soundtrack.png

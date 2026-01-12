@@ -1,5 +1,5 @@
 ---
-title: ナミダダイアモンド（泪水钻石）
+title: 《ナミダダイアモンド（泪水钻石）》歌词翻译
 published: 2025-10-17
 description: 动画《ReLIFE》登场角色狩生玲奈角色歌
 image: ./covers/relife_character_song_vol_3.png

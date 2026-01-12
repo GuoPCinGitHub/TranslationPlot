@@ -1,5 +1,5 @@
 ---
-title: Floating up
+title: 《Floating up》歌词翻译
 published: 2024-04-03
 description: 游戏《卡卢玛卢卡＊同好会》片头曲
 image: ./covers/karumaruka_circle_complete_soundtrack.png

@@ -1,5 +1,5 @@
 ---
-title: Hey Darling!
+title: 《Hey Darling!》歌词翻译
 published: 2025-11-06
 description: 游戏《任性High Spec OC》OP1
 image: ./covers/wagamama_high_spec_oc_vocal_album.png

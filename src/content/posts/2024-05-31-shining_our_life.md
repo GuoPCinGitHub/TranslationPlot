@@ -1,5 +1,5 @@
 ---
-title: shining! our life
+title: 《shining! our life》歌词翻译
 published: 2024-05-31
 description: 游戏《金辉恋曲四重奏》片尾曲
 image: ./covers/kin-iro_loveriche_complete_soundtrack.png

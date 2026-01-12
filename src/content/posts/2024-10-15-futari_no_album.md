@@ -1,5 +1,5 @@
 ---
-title: 二人のアルバム（两人的相簿）
+title: 《二人のアルバム（两人的相簿）》歌词翻译
 published: 2024-10-15
 description: 游戏《Fureraba ～Friend to Lover～》片尾曲
 image: ./covers/fureraba_mini_fandisc_full_soundtrack.png

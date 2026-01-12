@@ -1,5 +1,5 @@
 ---
-title: セカイノナミダ（世界的眼泪）
+title: 《セカイノナミダ（世界的眼泪）》歌词翻译
 published: 2024-12-10
 description: 动画《真实之泪》片尾曲
 image: ./covers/sekai_no_namida.png

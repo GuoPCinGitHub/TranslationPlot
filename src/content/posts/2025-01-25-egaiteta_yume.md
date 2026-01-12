@@ -1,5 +1,5 @@
 ---
-title: 描いてた夢（曾描绘的梦想）
+title: 《描いてた夢（曾描绘的梦想）》歌词翻译
 published: 2025-01-25
 description: 游戏《同居lover able》主题曲
 image: ./covers/lover_able_original_full_soundtrack.png

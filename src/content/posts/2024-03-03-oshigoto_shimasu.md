@@ -1,5 +1,5 @@
 ---
-title: お仕事します（努力工作）
+title: 《お仕事します（努力工作）》歌词翻译
 published: 2024-03-03
 description: 游戏《Noble☆Works》月山濑奈角色歌
 image: ./covers/noble_works_character_song_vol_2.png

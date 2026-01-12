@@ -1,5 +1,5 @@
 ---
-title: Please Please Eat me
+title: 《Please Please Eat me》歌词翻译
 published: 2025-09-15
 description: 游戏《树莓立方体》樱庭·维多利亚·瑠莉线片尾曲
 image: ./covers/raspberry_cube_vocal_album.png

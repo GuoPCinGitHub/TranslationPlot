@@ -1,5 +1,5 @@
 ---
-title: Kissin' Me, Kissin' You
+title: 《Kissin' Me, Kissin' You》歌词翻译
 published: 2024-03-11
 description: 游戏《花之天使的夏日恋歌》片尾曲
 image: ./covers/floral_flowlove_complete_sound_track.png

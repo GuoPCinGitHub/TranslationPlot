@@ -1,5 +1,5 @@
 ---
-title: my little wish
+title: 《my little wish》歌词翻译
 published: 2025-11-24
 description: 游戏《任性High Spec OC》四月一日奏恋线片尾曲
 image: ./covers/wagamama_high_spec_oc_vocal_album.png

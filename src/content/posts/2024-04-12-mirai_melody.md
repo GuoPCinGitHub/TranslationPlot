@@ -1,5 +1,5 @@
 ---
-title: ミライメロディ（未来旋律）
+title: 《ミライメロディ（未来旋律）》歌词翻译
 published: 2024-04-12
 description: 游戏《少女＊领域》片尾曲
 image: ./covers/otome_domain_original_soundtrack.png

@@ -1,5 +1,5 @@
 ---
-title: Midday Star
+title: 《Midday Star》歌词翻译
 published: 2023-05-17
 description: 游戏《魔女的夜宴》户隐憧子角色歌
 image: ./covers/sanoba_witch_character_song_vol_4.png

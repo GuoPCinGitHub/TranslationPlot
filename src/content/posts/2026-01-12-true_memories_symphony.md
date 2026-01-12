@@ -1,5 +1,5 @@
 ---
-title: True Memories Symphony
+title: 《True Memories Symphony》歌词翻译
 published: 2026-01-12
 description: 游戏《四季的谎言 -Complete Four Seasons-》主题曲
 image: ./covers/uso_series_complete_vocal_album.png

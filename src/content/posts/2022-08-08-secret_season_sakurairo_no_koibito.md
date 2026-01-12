@@ -1,5 +1,5 @@
 ---
-title: Secret Season 〜桜色の恋人〜（Secret Season ～樱色的恋人～）
+title: 《Secret Season 〜桜色の恋人〜（Secret Season ～樱色的恋人～）》歌词翻译
 published: 2022-08-08
 description: 游戏《现在就想告诉哥哥，我是妹妹！》开场曲
 image: ./covers/pc_game_imasugu_oniichan_ni_imouto_datte_iitai_vocal_album.png

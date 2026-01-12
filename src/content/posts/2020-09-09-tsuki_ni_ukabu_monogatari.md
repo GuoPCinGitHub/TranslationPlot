@@ -1,5 +1,5 @@
 ---
-title: 月に浮かぶ物語（月亮上浮现的故事）
+title: 《月に浮かぶ物語（月亮上浮现的故事）》歌词翻译
 published: 2020-09-09
 description: 动画《BEASTARS》第12话片尾曲
 image: ./covers/tv_anime_beastars_ending_theme_tsuki_ni_ukabu_monogatari.png

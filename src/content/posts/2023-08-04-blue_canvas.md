@@ -1,5 +1,5 @@
 ---
-title: Blue Canvas
+title: 《Blue Canvas》歌词翻译
 published: 2023-08-04
 description: いるかアイス投稿的VOCALOID日文原创歌曲
 image: ./covers/blue_canvas.png

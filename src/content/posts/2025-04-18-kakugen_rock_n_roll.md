@@ -1,5 +1,5 @@
 ---
-title: 格言 ろっくんロール（格言 Rock 'n' Roll）
+title: 《格言 ろっくんロール（格言 Rock 'n' Roll）》歌词翻译
 published: 2025-04-18
 description: TV动画《学生会的一己之见 Lv.2》片头曲同名专辑《Precious》收录曲
 image: ./covers/precious.png

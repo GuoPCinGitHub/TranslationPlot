@@ -1,5 +1,5 @@
 ---
-title: Liar for you ×××
+title: 《Liar for you ×××》歌词翻译
 published: 2024-09-10
 description: 游戏《夏天的谎言 -Ahead of the reminiscence-》主题曲
 image: ./covers/uso_series_complete_vocal_album.png

@@ -1,5 +1,5 @@
 ---
-title: 放課後アメージンッKiss（放学后Amazing Kiss）
+title: 《放課後アメージンッKiss（放学后Amazing Kiss）》歌词翻译
 published: 2025-10-31
 description: 游戏《任性High Spec》片尾曲
 image: ./covers/wagamama_high_spec_original_soundtrack_&_vocal_album.png

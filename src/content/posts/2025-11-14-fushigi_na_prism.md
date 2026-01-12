@@ -1,5 +1,5 @@
 ---
-title: 不思議なプリズム（奇妙的Prism）
+title: 《不思議なプリズム（奇妙的Prism）》歌词翻译
 published: 2025-11-14
 description: 游戏《任性High Spec OC》樱木·R·亚瑟线片尾曲
 image: ./covers/wagamama_high_spec_oc_vocal_album.png

@@ -1,5 +1,5 @@
 ---
-title: ぜったいかいちょーせんげん？（绝对会长宣言？）
+title: 《ぜったいかいちょーせんげん？（绝对会长宣言？）》歌词翻译
 published: 2024-08-17
 description: TV动画《学生会的一己之见》第11话片尾曲
 image: ./covers/tv_anime_seitokai_no_ichizon_character_fan_disc_sakurano_kurimu.png

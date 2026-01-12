@@ -1,5 +1,5 @@
 ---
-title: フカンゼンyouth（不完全youth）
+title: 《フカンゼンyouth（不完全youth）》歌词翻译
 published: 2024-05-09
 description: 游戏《闪耀★青春追逐记！》片尾曲
 image: ./covers/kakenuke_seishun_sparking_complete_soundtrack.png

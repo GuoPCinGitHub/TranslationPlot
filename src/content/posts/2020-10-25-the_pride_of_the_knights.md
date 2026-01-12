@@ -1,5 +1,5 @@
 ---
-title: The Pride Of The Knights
+title: 《The Pride Of The Knights》歌词翻译
 published: 2020-10-25
 description: 游戏《A3!》满开剧团 春组歌曲
 image: ./covers/a3_vivid_spring_ep.png

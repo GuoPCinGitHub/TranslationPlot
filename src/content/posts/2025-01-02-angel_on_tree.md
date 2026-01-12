@@ -1,5 +1,5 @@
 ---
-title: Angel on tree
+title: 《Angel on tree》歌词翻译
 published: 2025-01-02
 description: 动画《真实之泪》登场角色石动乃绘印象曲
 image: ./covers/tears...for_truth.png

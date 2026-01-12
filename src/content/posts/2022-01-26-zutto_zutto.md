@@ -1,5 +1,5 @@
 ---
-title: ずっと、ずっと（一直，一直）
+title: 《ずっと、ずっと（一直，一直）》歌词翻译
 published: 2022-01-26
 description: 动画《草莓棉花糖 encore》片尾曲
 image: ./covers/ichigo_mashmallow_encore_op_ichigo_splash.png

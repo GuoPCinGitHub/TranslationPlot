@@ -1,5 +1,5 @@
 ---
-title: 未来を開く鍵（打开未来的钥匙）
+title: 《未来を開く鍵（打开未来的钥匙）》歌词翻译
 published: 2022-08-09
 description: 游戏《现在就想告诉哥哥，我是妹妹！》片尾曲
 image: ./covers/pc_game_imasugu_oniichan_ni_imouto_datte_iitai_vocal_album.png

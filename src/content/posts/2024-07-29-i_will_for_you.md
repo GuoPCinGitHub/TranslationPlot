@@ -1,5 +1,5 @@
 ---
-title: I will for you
+title: 《I will for you》歌词翻译
 published: 2024-07-29
 description: 《纯白交响曲 原创剧集》乾纱凪角色歌
 image: ./covers/mashiroiro_symphony_original_drama_series_sound_portrait.png

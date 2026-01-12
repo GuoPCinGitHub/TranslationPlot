@@ -1,5 +1,5 @@
 ---
-title: あっかん berry berry（Akkan berry berry）
+title: 《あっかん berry berry（Akkan berry berry）》歌词翻译
 published: 2022-01-11
 description: 动画《草莓棉花糖OVA》片头曲
 image: ./covers/ichigo_mashmallow_ova_sweet-cd_1.png

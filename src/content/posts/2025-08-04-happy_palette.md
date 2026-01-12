@@ -1,5 +1,5 @@
 ---
-title: happy palette♪
+title: 《happy palette♪》歌词翻译
 published: 2025-08-04
 description: 游戏《常轨脱离Creative凸》常磐华乃线片尾曲
 image: ./covers/happy_palette.png

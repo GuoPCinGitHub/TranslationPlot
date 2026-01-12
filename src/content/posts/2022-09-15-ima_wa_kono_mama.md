@@ -1,5 +1,5 @@
 ---
-title: 今は このまま…（现在 就这样…）
+title: 《今は このまま…（现在 就这样…）》歌词翻译
 published: 2022-09-15
 description: 游戏《现在就想告诉哥哥，我是妹妹！》奈奈濑奉莉角色曲
 image: ./covers/pc_game_imasugu_oniichan_ni_imouto_datte_iitai_vocal_album.png

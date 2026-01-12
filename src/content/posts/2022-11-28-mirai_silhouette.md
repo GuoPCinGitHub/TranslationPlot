@@ -1,5 +1,5 @@
 ---
-title: 未来シルエット（未来剪影）
+title: 《未来シルエット（未来剪影）》歌词翻译
 published: 2022-11-28
 description: 游戏《现在就想告诉哥哥，我是妹妹！》插曲
 image: ./covers/pc_game_imasugu_oniichan_ni_imouto_datte_iitai_vocal_album.png

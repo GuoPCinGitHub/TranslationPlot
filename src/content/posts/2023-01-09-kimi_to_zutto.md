@@ -1,5 +1,5 @@
 ---
-title: 君とずっと（永远与你在一起）
+title: 《君とずっと（永远与你在一起）》歌词翻译
 published: 2023-01-09
 description: 游戏《现在就想告诉哥哥，我是妹妹！》拜田希实花线片尾曲
 image: ./covers/pc_game_imasugu_oniichan_ni_imouto_datte_iitai_vocal_album.png

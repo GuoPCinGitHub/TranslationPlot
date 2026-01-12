@@ -1,5 +1,5 @@
 ---
-title: find a piece
+title: 《find a piece》歌词翻译
 published: 2024-04-04
 description: 游戏《卡卢玛卢卡＊同好会》第二片头曲
 image: ./covers/karumaruka_circle_complete_soundtrack.png

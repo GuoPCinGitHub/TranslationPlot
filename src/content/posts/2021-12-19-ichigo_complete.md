@@ -1,5 +1,5 @@
 ---
-title: いちごコンプリート（草莓complete）
+title: 《いちごコンプリート（草莓complete）》歌词翻译
 published: 2021-12-19
 description: 动画《草莓棉花糖》片头曲
 image: ./covers/ichigo_mashmallow_original_soundtrack.png

@@ -1,5 +1,5 @@
 ---
-title: ぴかぴかEveryday（闪闪发光Everyday）
+title: 《ぴかぴかEveryday（闪闪发光Everyday）》歌词翻译
 published: 2024-08-15
 description: TV动画《纯白交响曲 -The color of lovers-》安洁莉娜·菜夏·史威尔角色歌
 image: ./covers/mashiroiro_symphony_character_palette_vol_2.png

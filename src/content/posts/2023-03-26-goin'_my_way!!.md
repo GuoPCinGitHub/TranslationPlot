@@ -1,5 +1,5 @@
 ---
-title: goin' my way!!
+title: 《goin' my way!!》歌词翻译
 published: 2023-03-26
 description: TV动画《TARI TARI》第1、2话插曲
 image: ./covers/tv_anime_tari_tari_music_album_utattari_kanadetari.png

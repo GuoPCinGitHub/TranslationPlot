@@ -1,5 +1,5 @@
 ---
-title: 空想☆シルブプレ（空想☆S'il vous plait）
+title: 《空想☆シルブプレ（空想☆S'il vous plait）》歌词翻译
 published: 2024-10-08
 description: TV动画《学生会的一己之见 Lv.2》第7话片尾曲
 image: ./covers/anime_seitokai_no_ichizon_lv.2_ending_shuu_collection_suru_seitokai.png
