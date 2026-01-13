@@ -729,13 +729,13 @@ rt {
 
 div[lang="ja"],
 span[lang="ja"] {
-  font-family: Roboto, Kosugi, "Kozuka Gothic Pro", "Yu Gothic", sans-serif;
+  font-family: "Helvetica Now", "Helvetica Neue", Helvetica, Roboto, Oxygen, Ubuntu, Cantarell, Kosugi, "Kozuka Gothic Pro", "Yu Gothic", sans-serif;
   font-display: swap;
 }
 
 div[lang="hi"],
 span[lang="hi"] {
-  font-family: Roboto, "Baloo 2", sans-serif;
+  font-family: "Helvetica Now", "Helvetica Neue", Helvetica, Roboto, Oxygen, Ubuntu, Cantarell, "Baloo 2", sans-serif;
   font-display: swap;
 }
 
