@@ -136,33 +136,29 @@ let bodyFontFamily = "";
 if (siteConfig.font) {
 	const fonts: string[] = [];
 	// 先添加 ASCII 字体（优先级最高）
-	if (siteConfig.font.asciiFont?.fontFamily) {
-		const asciiFont = siteConfig.font.asciiFont.fontFamily;
-		// 如果字体名包含空格，需要用引号包围
-		fonts.push(asciiFont.includes(" ") ? `"${asciiFont}"` : asciiFont);
-	}
+	// if (siteConfig.font.asciiFont?.fontFamily) {
+	// 	const asciiFont = siteConfig.font.asciiFont.fontFamily;
+	// 	// 如果字体名包含空格，需要用引号包围
+	// 	fonts.push(asciiFont.includes(" ") ? `"${asciiFont}"` : asciiFont);
+	// }
 	// 再添加 CJK 字体（作为回退）
-	if (siteConfig.font.cjkFont?.fontFamily) {
-		const cjkFont = siteConfig.font.cjkFont.fontFamily;
-		// 如果字体名包含空格，需要用引号包围
-		fonts.push(cjkFont.includes(" ") ? `"${cjkFont}"` : cjkFont);
-	}
+	// if (siteConfig.font.cjkFont?.fontFamily) {
+	// 	const cjkFont = siteConfig.font.cjkFont.fontFamily;
+	// 	// 如果字体名包含空格，需要用引号包围
+	// 	fonts.push(cjkFont.includes(" ") ? `"${cjkFont}"` : cjkFont);
+	// }
 	// 添加系统字体作为最终回退
 	fonts.push(
-		"'Source Han Sans SC'",
-		"'Noto Sans CJK'",
-		"'Noto Sans CJK SC'",
-		"'Noto Sans CJK CN'",
-		"system-ui",
-		"-apple-system",
-		"BlinkMacSystemFont",
-		"'Segoe UI'",
 		"Roboto",
 		"Oxygen",
 		"Ubuntu",
 		"Cantarell",
 		"'Open Sans'",
 		"'Helvetica Neue'",
+		"'Source Han Sans SC'",
+		"'Noto Sans CJK'",
+		"'Noto Sans CJK SC'",
+		"'Noto Sans CJK CN'",
 		"sans-serif",
 	);
 	// 组合成完整的 font-family 字符串
