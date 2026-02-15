@@ -1,6 +1,6 @@
 ---
 title: 《サクラモメント（樱舞时分）》歌词翻译
-published: 2026-02-08
+published: 2026-02-15
 description: 动画《堀与宫村》登场角色河野樱角色歌
 image: ./covers/horimiya_vol_4_limited.png
 tags: ["堀与宫村", "角色歌", "近藤玲奈演唱", "大崎隼人作词", "大崎隼人作曲"]
