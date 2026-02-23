@@ -28,8 +28,8 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://GuoPCinGitHub.github.io",
-	base: "/TranslationPlot",
+	site: "https://itomix.dpdns.org",
+	base: "/",
 	trailingSlash: "always",
 
 	output: "static",
