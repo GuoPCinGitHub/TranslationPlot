@@ -23,7 +23,7 @@ export function GithubCardComponent(properties, children) {
 		);
 
 	const repo = properties.repo;
-	const cardUuid = `GC${(window.crypto.getRandomValues(new Uint32Array(1))[0] * Math.pow(2, -32)).toString(36).slice(-6)}`; // Collisions are not important
+	const cardUuid = `GC${Math.random().toString(36).slice(-6)}`; // Collisions are not important
 
 	const nAvatar = h(`div#${cardUuid}-avatar`, { class: "gc-avatar" });
 	const nLanguage = h(
