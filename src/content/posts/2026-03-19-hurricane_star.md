@@ -1,6 +1,6 @@
 ---
 title: 《ハリケーンスター（Hurricane Star）》歌词翻译
-published: 2026-03-18
+published: 2026-03-19
 description: 专辑《堀与宫村 Special Disc MUSIC COLLECTION Vol.3》收录曲
 image: ./covers/horimiya_vol_6_limited.png
 tags: ["堀与宫村", "户松遥演唱", "HERO作词", "横山克作曲"]
