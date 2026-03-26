@@ -727,14 +727,12 @@ rt {
   font-size: 0.85em;
 }
 
-div[lang="ja"],
-span[lang="ja"] {
+:lang(ja) {
   font-family: Inter, Roboto, Oxygen, Ubuntu, Cantarell, Kosugi, "Kozuka Gothic Pro", "Yu Gothic", sans-serif;
   font-display: swap;
 }
 
-div[lang="hi"],
-span[lang="hi"] {
+:lang(hi) {
   font-family: Inter, Roboto, Oxygen, Ubuntu, Cantarell, "Baloo 2", sans-serif;
   font-display: swap;
 }
