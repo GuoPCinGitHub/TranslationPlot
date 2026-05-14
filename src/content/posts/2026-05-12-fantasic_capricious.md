@@ -3,7 +3,7 @@ title: 《Fantasic Capricious》歌词翻译
 published: 2026-05-12
 description: 游戏《异想魅惑2 暮色廻奇谭》片头曲
 image: ./covers/kimagure_temptation_2_maker_yoyaku_tokuten_ongaku_cd.png
-tags: ["异想魅惑", "片头曲", "solfa演唱", "小春めう演唱", "天ヶ咲麗作词", "桥咲透作曲"]
+tags: ["异想魅惑", "片头曲", "小春めう演唱", "天ヶ咲麗作词", "桥咲透作曲"]
 category: 日本音乐作品
 ---
 

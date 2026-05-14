@@ -3,7 +3,7 @@ title: 《Fantastic Conflict》歌词翻译
 published: 2026-04-22
 description: 游戏《异想魅惑》片头曲
 image: ./covers/kimagure_temptation_memorial_cd.png
-tags: ["异想魅惑", "片头曲", "solfa演唱", "小春めう演唱", "こはるん作词", "こはるん作曲"]
+tags: ["异想魅惑", "片头曲", "小春めう演唱", "こはるん作词", "こはるん作曲"]
 category: 日本音乐作品
 ---
 
