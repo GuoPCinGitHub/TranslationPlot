@@ -3,7 +3,7 @@ title: 《Day before Memory》歌词翻译
 published: 2026-05-26
 description: 游戏《Sugar*Style》片头曲
 image: ./covers/sugar_style_original_soundtrack.png
-tags: ["Sugar*Style", "片头曲", "isle演唱", "永原さくら作词", "マグナム三郎作曲", "ねいびー作曲"]
+tags: ["Sugar*Style", "片头曲", "主题曲", "插曲", "isle演唱", "永原さくら作词", "マグナム三郎作曲", "ねいびー作曲"]
 category: 日本音乐作品
 ---
 

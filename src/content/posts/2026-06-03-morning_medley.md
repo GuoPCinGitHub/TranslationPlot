@@ -1,13 +1,13 @@
 ---
 title: 《Day before Memory》歌词翻译
 published: 2026-06-03
-description: 游戏《Sugar*Style恋人以上夫妇未满After Story！！》片头曲
+description: 游戏《Sugar*Style恋人以上夫妇未满After Story！！》主题曲
 image: ./covers/sugar_style_original_soundtrack.png
-tags: ["Sugar*Style", "片头曲", "ユウカ演唱", "永原さくら作词", "大仏太郎作曲"]
+tags: ["Sugar*Style", "主题曲", "ユウカ演唱", "永原さくら作词", "大仏太郎作曲"]
 category: 日本音乐作品
 ---
 
-**Day before Memory** - 游戏《Sugar*Style恋人以上夫妇未满After Story！！》片头曲
+**Day before Memory** - 游戏《Sugar*Style恋人以上夫妇未满After Story！！》主题曲
 
 🎙️演唱：<span lang="ja">ユウカ</span>
 
