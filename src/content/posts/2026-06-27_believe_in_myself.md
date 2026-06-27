@@ -1,5 +1,5 @@
 ---
-title: 《LOVER SOUL》歌词翻译
+title: 《Believe In…Myself》歌词翻译
 published: 2026-06-27
 description: TV动画《天使的3P！》BD第3卷特典收录曲
 image: ./covers/tenshi_no_3p_special_cd_3.png
@@ -7,7 +7,7 @@ tags: ["天使的3P！", "大野柚布子演唱", "远藤祐里香演唱", "古�
 category: 日本音乐作品
 ---
 
-**LOVER SOUL** - TV动画《天使的3P！》BD第3卷特典收录曲
+**Believe In…Myself** - TV动画《天使的3P！》BD第3卷特典收录曲
 
 🎙️演唱：五岛润 (CV. 大野柚布子)、红叶谷希美 (CV. 远藤祐里香)、金城空 (CV. 古贺葵)
 
