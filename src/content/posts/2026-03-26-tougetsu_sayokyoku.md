@@ -3,13 +3,13 @@ title: 《燈月小夜曲（灯月小夜曲）》歌词翻译
 published: 2026-03-26
 description: 游戏《LimeLight Lemonade Jam》岛越月望线插曲
 image: ./covers/lemonade_jam.png
-tags: ["LimeLight Lemonade Jam", "插曲", "御园纱纱演唱", "天季ひより演唱", "虎瀬がお演唱", "羽生みいな作词", "Famishin作曲"]
+tags: ["LimeLight Lemonade Jam", "插曲", "御园纱纱演唱", "天季日和演唱", "虎瀬がお演唱", "羽生みいな作词", "Famishin作曲"]
 category: 日本音乐作品
 ---
 
 **<ruby lang="ja">燈月小夜曲<rt>とうげつさよきょく</rt></ruby>（灯月小夜曲）** - 游戏《LimeLight Lemonade Jam》岛越月望线插曲
 
-🎙️演唱：Lemonade Factory (阳见惠凪 (CV. 御园纱纱)、隐杏珠 (CV. <span lang="ja">天季ひより</span>)、岛越月望 (CV. <span lang="ja">虎瀬がお</span>))
+🎙️演唱：Lemonade Factory (阳见惠凪 (CV. 御园纱纱)、隐杏珠 (CV. 天季日和)、岛越月望 (CV. <span lang="ja">虎瀬がお</span>))
 
 ✍️作词：<span lang="ja">羽生みいな</span> (Angel Note) | 🎵作曲：Famishin
 
