@@ -7,7 +7,7 @@ tags: ["醋意乱流", "插曲", "大岛春奈演唱", "大岛春奈作词", "�
 category: 日本音乐作品
 ---
 
-**<span lang="ja">ア・イ・ツに Fall in love!!</span>（醋意☆乱流）** - 游戏《醋意乱流》插曲
+**<span lang="ja">ア・イ・ツに Fall in love!!</span>（对那·家·伙 Fall in love!!）** - 游戏《醋意乱流》插曲
 
 🎙️演唱：大岛春奈
 
