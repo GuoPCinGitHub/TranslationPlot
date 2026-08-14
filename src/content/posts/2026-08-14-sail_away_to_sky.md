@@ -3,7 +3,7 @@ title: 《SAIL AWAY TO SKY》歌词翻译
 published: 2026-08-14
 description: TV动画《TARI TARI》登场角色冲田纱羽角色歌
 image: ./covers/tv_anime_tari_tari_chara_song_mini_album_umi_ban_moguttari_tayutattari.png
-tags: ["TARI TARI", "角色歌", "早见沙织演唱", "micco作词", "菊池达也作曲"]
+tags: ["TARI TARI", "角色歌", "早见沙织演唱", "松井洋平作词", "石川智久作曲", "松井洋平作曲"]
 category: 日本音乐作品
 ---
 
@@ -11,7 +11,7 @@ category: 日本音乐作品
 
 🎙️演唱：冲田纱羽 (CV. 早见沙织)
 
-✍️作词：micco | 🎵作曲：菊池达也
+✍️作词：松井洋平 | 🎵作曲：石川智久、松井洋平
 
 ## 歌词
 
