@@ -96,7 +96,7 @@ Lovely Pink 近づいて
 Twinkle Link 坠入爱河
 好想见到你呀
 在同步的未来约定相会
-Lonvely Pink 再靠近点
+Lovely Pink 再靠近点
 想让你再困扰些
 希望令你说出最喜欢
 说笑的♪
@@ -126,7 +126,7 @@ Lucky Star 紧追不舍
 Twinkle Link 坠入爱河
 好想见到你呀
 在同步的未来约定相会
-Lonvely Pink 再靠近点
+Lovely Pink 再靠近点
 想让你再困扰些
 希望令你说出最喜欢
 快说吧♡
