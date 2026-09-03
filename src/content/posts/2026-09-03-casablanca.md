@@ -1,7 +1,7 @@
 ---
 title: 《カサブランカ（卡萨布兰卡）》歌词翻译
 published: 2026-09-03
-description: 游戏《流景之海的艾佩理雅》片尾曲
+description: 游戏《流景之海的艾佩理雅 ～卡萨布兰卡的骑士～》片头曲
 image: ./covers/hikari_no_umi_no_apeiria_casablanca_no_kishi_fan_disc_tokuten_ongaku_cd.png
 tags: ["流景之海的艾佩理雅", "主题曲", "片头曲", "药师琉璃演唱", "药师琉璃作词", "药师琉璃作曲"]
 category: 日本音乐作品
