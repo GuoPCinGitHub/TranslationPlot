@@ -3,7 +3,7 @@ title: 《イッツトリックタイム（It's Trick Time）》歌词翻译
 published: 2026-11-02
 description: 游戏《放学后的灰姑娘2 Mini Fandisk ～第一次与你共舞的快乐万圣节～》主题曲
 image: ./covers/hooksoft_vocal_collection_my_cinderella_story.png
-tags: ["放学后的灰姑娘", "主题曲", "片头曲", "夜白魔メア演唱", "永原さくら作词", "EP作曲"]
+tags: ["放学后的灰姑娘2", "主题曲", "片头曲", "夜白魔メア演唱", "永原さくら作词", "EP作曲"]
 category: 日本音乐作品
 ---
 
