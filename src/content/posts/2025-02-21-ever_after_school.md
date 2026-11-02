@@ -1,13 +1,13 @@
 ---
 title: 《Ever After School》歌词翻译
 published: 2025-02-21
-description: 游戏《放学后的灰姑娘 Mini Fandisk ～与你所走的最后一次放学路～》片尾曲
+description: 游戏《放学后的灰姑娘 Mini Fandisk ～与你所走的最后一次放学路～》主题曲
 image: ./covers/hooksoft_vocal_collection_my_cinderella_story.png
-tags: ["放学后的灰姑娘", "主题曲", "はな演唱", "永原さくら作词", "A-DASH作曲"]
+tags: ["放学后的灰姑娘", "主题曲", "插曲", "はな演唱", "永原さくら作词", "A-DASH作曲"]
 category: 日本音乐作品
 ---
 
-**Ever After School** - 游戏《放学后的灰姑娘 Mini Fandisk ～与你所走的最后一次放学路～》片尾曲
+**Ever After School** - 游戏《放学后的灰姑娘 Mini Fandisk ～与你所走的最后一次放学路～》主题曲
 
 🎙️演唱：<span lang="ja">はな</span>
 
