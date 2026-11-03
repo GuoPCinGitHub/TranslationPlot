@@ -545,7 +545,7 @@ const transparentClass = shouldEnableTransparency
 <div id="banner-wrapper" class={`absolute z-10 w-full transition duration-700 overflow-hidden ${mobileNonHomeBannerClass}`} style={`top: -${BANNER_HEIGHT_EXTEND}vh`}>
 
     {(bannerImages.desktop && Array.isArray(bannerImages.desktop) && bannerImages.desktop.length > 1) || (bannerImages.mobile && Array.isArray(bannerImages.mobile) && bannerImages.mobile.length > 1) ? (
-        <!-- Carousel mode for multiple images -->
+        /* Carousel mode for multiple images */
         <div id="banner-carousel" class="relative h-full w-full">
             <ul class="carousel-list h-full w-full">
                 {Math.max(
@@ -592,7 +592,7 @@ const transparentClass = shouldEnableTransparency
             </ul>
         </div>
     ) : (
-        <!-- Single image mode -->
+        /* Single image mode */
             <div class="relative h-full w-full">
                 <!-- Mobile: use mobile-specific image with same logic as desktop -->
                 <ImageWrapper 
@@ -1621,3 +1621,4 @@ body.no-banner-mode .absolute.w-full.z-30 {
         max-height: 40px !important;
     }
 }
+</style>
