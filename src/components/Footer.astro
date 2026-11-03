@@ -41,16 +41,16 @@ if (footerConfig.enable) {
         {customFooterHtml && (
             <div class="mb-2" set:html={customFooterHtml}></div>
         )}
-        歌词著作权归原作者所有，其余文字内容采用 
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans">知识共享署名-非商业性使用-相同方式共享 4.0 国际版本许可协议</a> 
-        进行许可<br>
-        &copy; <span id="copyright-year">2020–{currentYear}</span> {profileConfig.name} /
-        <a class="transition link text-[var(--primary)] font-medium" href={url('rss/')} onclick={`event.preventDefault(); navigateToPage('${url('rss/')}')`}>RSS</a> /
-		<a class="transition link text-[var(--primary)] font-medium" href={url('atom/')} onclick={`event.preventDefault(); navigateToPage('${url('atom/')}')`}>Atom</a> /
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href={url('sitemap-index.xml')}>Sitemap</a><br>
-        Powered by
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://astro.build">Astro</a> &
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://github.com/matsuzaka-yuki/mizuki">Mizuki</a>&nbsp; Version <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://github.com/matsuzaka-yuki/mizuki">7.6.5</a><br>
+        歌词著作权归原作者所有，其余文字内容采用 <a
+		class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans">知识共享署名-非商业性使用-相同方式共享 4.0 国际版本许可协议</a
+		> 进行许可<br>
+        &copy; <span id="copyright-year">2020–{currentYear}</span> {profileConfig.name} / <a
+		class="transition link text-[var(--primary)] font-medium" href={url('rss/')} onclick={`event.preventDefault(); navigateToPage('${url('rss/')}')`}>RSS</a> / <a
+		class="transition link text-[var(--primary)] font-medium" href={url('atom/')} onclick={`event.preventDefault(); navigateToPage('${url('atom/')}')`}>Atom</a> / <a
+		class="transition link text-[var(--primary)] font-medium" target="_blank" href={url('sitemap-index.xml')}>Sitemap</a><br>
+        Powered by <a
+		class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://astro.build">Astro</a> & <a
+		class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://github.com/matsuzaka-yuki/mizuki">Mizuki</a>&nbsp; Version <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://github.com/matsuzaka-yuki/mizuki">7.6.5</a>
     </div>
 	<div class="transition flex items-center justify-center gap-3 mt-3">
         <a target="_blank" href="https://notbyai.fyi/">
