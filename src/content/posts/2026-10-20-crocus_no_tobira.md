@@ -2,7 +2,7 @@
 title: 《クロッカスの扉（番红花之门）》歌词翻译
 published: 2026-10-20
 description: 多媒体企划《IDOLY PRIDE》曲目
-image: ./covers/idoly_pride_collection_album_mirai.png
+image: ./covers/crocus_no_tobira.png
 tags:
   ["IDOLY PRIDE", "首藤志奈演唱", "雨宫天演唱", "やしきん作词", "やしきん作曲"]
 category: 日本音乐作品

@@ -2,7 +2,7 @@
 title: 《最高優美ロンリネス（最为优美Loneliness）》歌词翻译
 published: 2026-10-25
 description: 多媒体企划《IDOLY PRIDE》曲目
-image: ./covers/idoly_pride_collection_album_mirai.png
+image: ./covers/saikou_yuubi_loneliness.png
 tags: ["IDOLY PRIDE", "LizNoir演唱", "户松遥演唱", "高垣彩阳演唱", "寿美菜子演唱", "丰崎爱生演唱", "Q-MHz作词", "Q-MHz作曲"]
 category: 日本音乐作品
 ---

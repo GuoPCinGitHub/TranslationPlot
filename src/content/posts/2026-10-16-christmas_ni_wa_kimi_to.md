@@ -2,7 +2,7 @@
 title: 《クリスマスには君と（和你一起过圣诞节）》歌词翻译
 published: 2026-10-16
 description: 多媒体企划《IDOLY PRIDE》曲目
-image: ./covers/idoly_pride_collection_album_mirai.png
+image: ./covers/christmas_ni_wa_kimi_to.png
 tags:
   [
     "IDOLY PRIDE",
