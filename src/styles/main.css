@@ -9,8 +9,8 @@
 @import "./gradient-buttons.css";
 /* 加密内容样式已移除，现在直接使用非加密文章的样式 */
 
-@import "@fontsource/kosugi/japanese-400.css";
-@import "@fontsource/baloo-2/devanagari-400.css";
+@import "@fontsource/line-seed-jp/japanese.css";
+@import "@fontsource/baloo-2/devanagari.css";
 
 @font-face {
   font-family: "Roboto";
@@ -728,7 +728,7 @@ rt {
 }
 
 :lang(ja) {
-  font-family: Inter, Roboto, Oxygen, Ubuntu, Cantarell, Kosugi, "Kozuka Gothic Pro", "Yu Gothic", sans-serif;
+  font-family: Inter, Roboto, Oxygen, Ubuntu, Cantarell, "Line Seed JP", "Kozuka Gothic Pro", "Yu Gothic", sans-serif;
   font-display: swap;
 }
 
