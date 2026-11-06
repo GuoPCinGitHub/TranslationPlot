@@ -9,9 +9,6 @@
 @import "./gradient-buttons.css";
 /* 加密内容样式已移除，现在直接使用非加密文章的样式 */
 
-@import "@fontsource/line-seed-jp/japanese.css";
-@import "@fontsource/baloo-2/devanagari.css";
-
 @font-face {
   font-family: "Roboto";
   src: url("/assets/font/Roboto-Regular.woff2") format("woff2");
