@@ -1,13 +1,13 @@
 ---
 title: 《SWEET SHINY DAY》歌词翻译
 published: 2026-08-20
-description: TV动画《TARI TARI》登场角色坂井和奏&宫本来夏角色歌
+description: TV动画《TARI TARI》登场角色坂井和奏、宫本来夏角色歌
 image: ./covers/tv_anime_tari_tari_chara_song_mini_album_umi_ban_moguttari_tayutattari.png
 tags: ["TARI TARI", "角色歌", "高垣彩阳演唱", "濑户麻沙美演唱", "rino作词", "谷岛俊作曲"]
 category: 日本音乐作品
 ---
 
-**SWEET SHINY DAY** - TV动画《TARI TARI》登场角色坂井和奏&宫本来夏角色歌
+**SWEET SHINY DAY** - TV动画《TARI TARI》登场角色坂井和奏、宫本来夏角色歌
 
 🎙️演唱：坂井和奏 (CV. 高垣彩阳)、宫本来夏 (CV. 濑户麻沙美)
 

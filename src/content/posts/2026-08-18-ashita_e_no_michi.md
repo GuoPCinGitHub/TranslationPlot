@@ -1,13 +1,13 @@
 ---
 title: 《明日への道（通往明天的路）》歌词翻译
 published: 2026-08-18
-description: TV动画《TARI TARI》登场角色冲田纱羽&田中大智角色歌
+description: TV动画《TARI TARI》登场角色冲田纱羽、田中大智角色歌
 image: ./covers/tv_anime_tari_tari_chara_song_mini_album_umi_ban_moguttari_tayutattari.png
 tags: ["TARI TARI", "角色歌", "早见沙织演唱", "岛崎信长演唱", "micco作词", "酒井阳一作曲"]
 category: 日本音乐作品
 ---
 
-**<span lang="ja">明日への道</span>（通往明天的路）** - TV动画《TARI TARI》登场角色冲田纱羽&田中大智角色歌
+**<span lang="ja">明日への道</span>（通往明天的路）** - TV动画《TARI TARI》登场角色冲田纱羽、田中大智角色歌
 
 🎙️演唱：冲田纱羽 (CV. 早见沙织)、田中大智 (CV. 岛崎信长)
 

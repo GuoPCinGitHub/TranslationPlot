@@ -109,6 +109,9 @@ const recentPosts = posts.slice(0, 6);
     </div>
 
     <script>
+        import I18nKey from "../i18n/i18nKey";
+        import { i18n } from "../i18n/translation";
+
         const init = () => {
             const copyBtn = document.getElementById('copy-rss-btn');
             if (copyBtn) {
@@ -117,8 +120,8 @@ const recentPosts = posts.slice(0, 6);
                     if (!url) return;
                     try {
                         await navigator.clipboard.writeText(url);
-                        const originalText = this.textContent || "Copy Link";
-                        this.textContent = "RSS link copied to clipboard!";
+                        const originalText = this.textContent || i18n(I18nKey.rssCopyLink) || "Copy Link";
+                        this.textContent = `${i18n(I18nKey.rssCopied)}`;
                         this.style.backgroundColor = 'var(--success-color, #10b981)';
                         
                         setTimeout(() => {
@@ -127,8 +130,8 @@ const recentPosts = posts.slice(0, 6);
                         }, 2000);
                     } catch (err) {
                         console.error('复制失败:', err);
-                        const originalText = this.textContent || "Copy Link";
-                        this.textContent = "Copy failed, please copy the link manually";
+                        const originalText = this.textContent || i18n(I18nKey.rssCopyLink) || "Copy Link";
+                        this.textContent = `${i18n(I18nKey.rssCopyFailed)}`;
                         setTimeout(() => {
                             this.textContent = originalText;
                         }, 2000);

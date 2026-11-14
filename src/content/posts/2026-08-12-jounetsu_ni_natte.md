@@ -1,13 +1,13 @@
 ---
 title: 《情熱になって（化作热情）》歌词翻译
 published: 2026-08-12
-description: TV动画《TARI TARI》登场角色田中大智&维也纳角色歌
+description: TV动画《TARI TARI》登场角色田中大智、维也纳角色歌
 image: ./covers/tv_anime_tari_tari_chara_song_mini_album_sora_ban_miagetari_habataitari.png
 tags: ["TARI TARI", "角色歌", "岛崎信长演唱", "花江夏树演唱", "rino作词", "木之下庆行作曲"]
 category: 日本音乐作品
 ---
 
-**<span lang="ja">情熱になって</span>（化作热情）** - TV动画《TARI TARI》登场角色田中大智&维也纳角色歌
+**<span lang="ja">情熱になって</span>（化作热情）** - TV动画《TARI TARI》登场角色田中大智、维也纳角色歌
 
 🎙️演唱：田中大智 (CV. 岛崎信长)、维也纳 (CV. 花江夏树)
 

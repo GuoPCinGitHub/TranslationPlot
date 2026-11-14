@@ -1,13 +1,13 @@
 ---
 title: 《七色Happiness（七色Happiness）》歌词翻译
 published: 2026-08-17
-description: TV动画《TARI TARI》登场角色宫本来夏&冲田纱羽角色歌
+description: TV动画《TARI TARI》登场角色宫本来夏、冲田纱羽角色歌
 image: ./covers/tv_anime_tari_tari_chara_song_mini_album_umi_ban_moguttari_tayutattari.png
 tags: ["TARI TARI", "角色歌", "濑户麻沙美演唱", "早见沙织演唱", "rino作词", "A-bee作曲"]
 category: 日本音乐作品
 ---
 
-**<span lang="ja">七色Happiness</span>（七色Happiness）** - TV动画《TARI TARI》登场角色宫本来夏&冲田纱羽角色歌
+**<span lang="ja">七色Happiness</span>（七色Happiness）** - TV动画《TARI TARI》登场角色宫本来夏、冲田纱羽角色歌
 
 🎙️演唱：宫本来夏 (CV. 濑户麻沙美)、冲田纱羽 (CV. 早见沙织)
 

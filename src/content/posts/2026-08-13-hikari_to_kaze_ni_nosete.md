@@ -1,13 +1,13 @@
 ---
 title: 《光と風にのせて（乘着光和风）》歌词翻译
 published: 2026-08-13
-description: TV动画《TARI TARI》登场角色坂井和奏&冲田纱羽角色歌
+description: TV动画《TARI TARI》登场角色坂井和奏、冲田纱羽角色歌
 image: ./covers/tv_anime_tari_tari_chara_song_mini_album_sora_ban_miagetari_habataitari.png
 tags: ["TARI TARI", "角色歌", "高垣彩阳演唱", "早见沙织演唱", "micco作词", "菊池达也作曲"]
 category: 日本音乐作品
 ---
 
-**<span lang="ja">光と風にのせて</span>（乘着光和风）** - TV动画《TARI TARI》登场角色坂井和奏&冲田纱羽角色歌
+**<span lang="ja">光と風にのせて</span>（乘着光和风）** - TV动画《TARI TARI》登场角色坂井和奏、冲田纱羽角色歌
 
 🎙️演唱：坂井和奏 (CV. 高垣彩阳)、冲田纱羽 (CV. 早见沙织)
 
