@@ -234,6 +234,10 @@ html.motion-reduced *::after {
   scroll-behavior: auto !important;
 }
 
+rt {
+  font-size: 0.7em;
+}
+
 :lang(ja) {
   font-family:
     Inter, Roboto, Oxygen, Ubuntu, Cantarell, "Line Seed JP",
