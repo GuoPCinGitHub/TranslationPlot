@@ -17,7 +17,7 @@ describe("font CSS variable contract", () => {
 
 		assert.match(
 			fontFaces,
-			/--m3e-font-mono-family:\s*var\(--m3e-font-mono-stack,\s*var\(--font-mono,\s*var\(--m3e-font-mono-fallback\)\)\);/,
+			/--m3e-font-mono-family:\s*var\(\s*--m3e-font-mono-stack,\s*var\(\s*--font-mono,\s*var\(--m3e-font-mono-fallback\)\s*\)\s*\)\s*;/,
 		);
 		assert.doesNotMatch(
 			fontFaces,
