@@ -234,6 +234,10 @@ html.motion-reduced *::after {
   scroll-behavior: auto !important;
 }
 
+body {
+  text-autospace: normal;
+}
+
 rt {
   font-size: 0.7em;
 }
