@@ -1,34 +1,33 @@
-export {};
+import type Swup from "swup";
+import "@swup/scroll-plugin";
 
 declare global {
-	interface HTMLElementTagNameMap {
-		"table-of-contents": HTMLElement & {
-			init?: () => void;
-		};
+	interface OddmiscStatsResult {
+		pageviews: number;
+		visitors: number;
+		visits: number;
+		_fromCache?: boolean;
+	}
+
+	interface OddmiscBrowserClient {
+		getSiteStats: () => Promise<OddmiscStatsResult>;
+		getPageStats: (path: string) => Promise<OddmiscStatsResult>;
+		clearCache: () => void;
 	}
 
 	interface Window {
-		// Define swup type directly since @swup/astro doesn't export AstroIntegration
-		swup: any;
-		closeAnnouncement: () => void;
-		pagefind: {
+		swup?: Swup;
+		oddmisc?: OddmiscBrowserClient;
+		__shironeUmamiStatsPromises?: Record<string, Promise<OddmiscStatsResult>>;
+		__shironeNavigationBound?: boolean;
+		__shironeSidebarBound?: boolean;
+		pagefind?: {
 			search: (query: string) => Promise<{
 				results: Array<{
 					data: () => Promise<SearchResult>;
 				}>;
 			}>;
 		};
-
-		mobileTOCInit?: () => void;
-		initSemifullScrollDetection?: () => void;
-		iconifyLoaded?: boolean;
-		__iconifyLoader?: {
-			load: () => Promise<void>;
-			addToPreloadQueue: (icons: string[]) => void;
-			onLoad: (callback: () => void) => void;
-			isLoaded: boolean;
-		};
-		siteConfig: any;
 	}
 }
 

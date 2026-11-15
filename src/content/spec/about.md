@@ -16,9 +16,7 @@
 
 如页脚所示，本站除歌词外的文字内容适用[知识共享署名-非商业性使用-相同方式共享 4.0 国际版本许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)，这意味着您可以自由地共享和演绎相关内容，惟需附上署名，且禁止用于商业用途。具体的协议说明可参见上面的链接。
 
-如果您觉得本站对您有帮助，欢迎在GitHub上点个Star。如有任何建议或意见也欢迎提出Issue。GitHub链接如下：
-
-::github{repo="GuoPCinGitHub/TranslationPlot"}
+如果您觉得本站对您有帮助，欢迎在GitHub上点个Star。如有任何建议或意见也欢迎提出Issue。
 
 ## 更多联系方式
 

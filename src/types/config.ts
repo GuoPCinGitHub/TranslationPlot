@@ -1,44 +1,94 @@
-import type {
-	DARK_MODE,
-	LIGHT_MODE,
-	WALLPAPER_BANNER,
-	WALLPAPER_FULLSCREEN,
-	WALLPAPER_NONE,
-} from "../constants/constants";
+export type { PermalinkConfig } from "./permalinkConfig.ts";
+
+import type { AUTO_MODE, DARK_MODE, LIGHT_MODE } from "@constants/constants";
+import type { TextureConfig } from "./textureConfig";
+
+export type WallpaperMode = "banner" | "none";
+
+export type TopAppBarContentAlign = "left" | "center";
+
+export type DisplaySettingsConfig = {
+	/** 是否在显示设置面板展示配色风格（9 宫格）选择器（默认 true） */
+	colorStyle?: boolean;
+	/** 是否在显示设置面板展示 Color Spec（调色规范 2021 / 2025）切换器（默认 true） */
+	colorSpec?: boolean;
+	/** 是否在显示设置面板展示 Page background（页面背景 纯色 / 横幅）切换器（默认 true） */
+	wallpaperMode?: boolean;
+	/** 是否在显示设置面板展示 Layout（文章列表布局 列表 / 网格）切换器（默认 true） */
+	layoutMode?: boolean;
+	/** 是否在显示设置面板展示 Reduce motion（减少动效）切换器（默认 true） */
+	reduceMotion?: boolean;
+	/** 是否在显示设置面板展示背景纹理选择器（默认 true，且受 texture.enable 控制） */
+	texture?: boolean;
+};
+
+export type BannerThemeSource = {
+	light: string[];
+	dark: string[];
+};
+
+export type BannerSourceValue = string[] | BannerThemeSource;
+
+export type BannerConfig = {
+	src: {
+		desktop: BannerSourceValue;
+		mobile: BannerSourceValue;
+	};
+	position?: "top" | "center" | "bottom";
+	dim: {
+		enable: boolean;
+		opacity: number;
+	};
+	homeText: {
+		enable: boolean;
+		title: string;
+		/** 首页副标题文本，支持单条字符串或多条交替循环的字符串数组 */
+		subtitle: string | string[];
+		typewriter: {
+			enable: boolean;
+			/** 打字速度（每个字符间隔，毫秒，默认 120） */
+			speed: number;
+			/** 回退反向删除速度（每个字符间隔，毫秒，默认 50） */
+			deleteSpeed?: number;
+			/** 打字完成后等待停顿时间（毫秒，默认 2000） */
+			pauseTime?: number;
+			/** 完成后是否循环播放（默认 true） */
+			loop: boolean;
+		};
+	};
+	carousel: {
+		enable: boolean;
+		interval: number;
+		/** 交叉淡入淡出过渡时长（毫秒，默认 1200） */
+		fadeDuration?: number;
+		/** 运镜呼吸动画模式："ken-burns"（默认，序列运镜）| "zoom-in" | "zoom-out" | "pan-left" | "pan-right" | "none" */
+		animation?:
+			| "ken-burns"
+			| "zoom-in"
+			| "zoom-out"
+			| "pan-left"
+			| "pan-right"
+			| "none";
+	};
+	waves: {
+		enable: boolean;
+	};
+};
 
 export type SiteConfig = {
+	site: string;
+	base?: string;
 	title: string;
 	subtitle: string;
-	siteURL: string; // 站点URL，以斜杠结尾，例如：https://mizuki.mysqil.com/
-	keywords?: string[]; // 站点关键词，用于生成 <meta name="keywords">
-	siteStartDate?: string; // 站点开始日期，格式：YYYY-MM-DD，用于计算运行天数
+	/** 默认社交媒体分享预览图（og:image / twitter:image），支持本地相对路径或远程绝对链接。未配置时自动回退为第一张桌面版横幅壁纸。 */
+	ogImage?: string;
+	topAppBar: {
+		/** 桌面端标题与导航内容组的对齐方式。 */
+		contentAlign: TopAppBarContentAlign;
+	};
 
-	timeZone:
-		| -12
-		| -11
-		| -10
-		| -9
-		| -8
-		| -7
-		| -6
-		| -5
-		| -4
-		| -3
-		| -2
-		| -1
-		| 0
-		| 1
-		| 2
-		| 3
-		| 4
-		| 5
-		| 6
-		| 7
-		| 8
-		| 9
-		| 10
-		| 11
-		| 12;
+	/** 显示设置浮层各切换项的前端可见性控制 */
+	displaySettings?: DisplaySettingsConfig;
 
 	lang:
 		| "en"
@@ -52,156 +102,44 @@ export type SiteConfig = {
 		| "tr"
 		| "id";
 
+	/** IANA time zone used to interpret precise content timestamps. */
+	timeZone: string;
+
 	themeColor: {
 		hue: number;
 		fixed: boolean;
+		style: string;
+		spec: string;
 	};
-
-	// 特色页面开关配置
-	featurePages: {
-		anime: boolean; // 番剧页面开关
-		diary: boolean; // 日记页面开关
-		friends: boolean; // 友链页面开关
-		projects: boolean; // 项目页面开关
-		skills: boolean; // 技能页面开关
-		timeline: boolean; // 时间线页面开关
-		albums: boolean; // 相册页面开关
-		devices: boolean; // 设备页面开关
-	};
-
-	// 文章列表布局配置
-	postListLayout: {
-		defaultMode: "list" | "grid"; // 默认布局模式：list=列表模式，grid=网格模式
-		allowSwitch: boolean; // 是否允许用户切换布局
-	};
-
-	// 顶栏标题配置
-	navbarTitle?: {
-		text: string; // 顶栏标题文本
-		icon?: string; // 顶栏标题图标路径
-	};
-
-	// 添加字体配置
-	font: {
-		asciiFont: {
-			fontFamily: string;
-			fontWeight: string | number;
-			localFonts: string[];
-			enableCompress: boolean;
-		};
-		cjkFont: {
-			fontFamily: string;
-			fontWeight: string | number;
-			localFonts: string[];
-			enableCompress: boolean;
-		};
-	};
-
-	// 添加bangumi配置
-	bangumi?: {
-		userId?: string; // Bangumi用户ID
-		fetchOnDev?: boolean;
-	};
-
-	// 添加番剧页面配置
-	anime?: {
-		mode?: "bangumi" | "local"; // 番剧页面模式
-	};
-
-	// 标签样式配置
-	tagStyle?: {
-		useNewStyle?: boolean; // 是否使用新样式（悬停高亮样式）还是旧样式（外框常亮样式）
-	};
-
-	// 壁纸模式配置
 	wallpaperMode: {
-		defaultMode: "banner" | "fullscreen" | "none"; // 默认壁纸模式：banner=顶部横幅，fullscreen=全屏壁纸，none=无壁纸
-		showModeSwitchOnMobile?: "off" | "mobile" | "desktop" | "both"; // 整体布局方案切换按钮显示设置：off=隐藏，mobile=仅移动端，desktop=仅桌面端，both=全部显示
+		defaultMode: WallpaperMode;
 	};
-
-	banner: {
-		src:
-			| string
-			| string[]
-			| {
-					desktop?: string | string[];
-					mobile?: string | string[];
-			  }; // 支持单个图片、图片数组或分别设置桌面端和移动端图片
-		position?: "top" | "center" | "bottom";
-		carousel?: {
-			enable: boolean; // 是否启用轮播
-			interval: number; // 轮播间隔时间（秒）
-		};
-		waves?: {
-			enable: boolean; // 是否启用水波纹效果
-			performanceMode?: boolean; // 性能模式：减少动画复杂度
-			mobileDisable?: boolean; // 移动端禁用
-		};
-		imageApi?: {
-			enable: boolean; // 是否启用图片API
-			url: string; // API地址，返回每行一个图片链接的文本
-		};
-		homeText?: {
-			enable: boolean; // 是否在首页显示自定义文字
-			title?: string; // 主标题
-			subtitle?: string | string[]; // 副标题，支持单个字符串或字符串数组
-			typewriter?: {
-				enable: boolean; // 是否启用打字机效果
-				speed: number; // 打字速度（毫秒）
-				deleteSpeed: number; // 删除速度（毫秒）
-				pauseTime: number; // 完整显示后的暂停时间（毫秒）
-			};
-		};
-		credit: {
-			enable: boolean;
-			text: string;
-			url?: string;
-		};
-		navbar?: {
-			transparentMode?: "semi" | "full" | "semifull"; // 导航栏透明模式
-		};
+	/** 页面背景纹理系统配置，支持布尔值直接开关或详细配置对象 */
+	texture?: boolean | TextureConfig;
+	banner: BannerConfig;
+	/** Markdown 正文图片处理配置。 */
+	imageOptimization?: {
+		/** 添加 `referrerpolicy="no-referrer"` 的远程图片域名，支持 `*.example.com` 通配符。 */
+		noReferrerDomains?: string[];
 	};
 	toc: {
 		enable: boolean;
-		mode: "float" | "sidebar"; // 目录显示模式："float" 悬浮按钮模式，"sidebar" 侧边栏模式
 		depth: 1 | 2 | 3;
-		useJapaneseBadge?: boolean; // 使用日语假名标记（あいうえお...）代替数字
 	};
-	showCoverInContent: boolean; // 控制文章封面在文章内容页显示的开关
-	generateOgImages: boolean;
+
+	/** 进度条预设样式（页面切换进度条等，仅线性扫描模式） */
+	progressIndicator: {
+		/** dual 双向扫描（官方默认双线）/ single 单向扫描（单线） */
+		style: "dual" | "single";
+	};
+
 	favicon: Favicon[];
-	showLastModified: boolean; // 控制“上次编辑”卡片显示的开关
 };
 
 export type Favicon = {
 	src: string;
 	theme?: "light" | "dark";
 	sizes?: string;
-};
-
-export enum LinkPreset {
-	Home = 0,
-	Archive = 1,
-	About = 2,
-	Friends = 3,
-	Anime = 4,
-	Diary = 5,
-	Gallery = 6,
-	Projects = 7,
-	Skills = 8,
-	Timeline = 9,
-}
-
-export type NavBarLink = {
-	name: string;
-	url: string;
-	external?: boolean;
-	icon?: string; // 菜单项图标
-	children?: (NavBarLink | LinkPreset)[]; // 支持子菜单，可以是NavBarLink或LinkPreset
-};
-
-export type NavBarConfig = {
-	links: (NavBarLink | LinkPreset)[];
 };
 
 export type ProfileConfig = {
@@ -213,10 +151,6 @@ export type ProfileConfig = {
 		url: string;
 		icon: string;
 	}[];
-	typewriter?: {
-		enable: boolean; // 是否启用打字机效果
-		speed?: number; // 打字速度（毫秒）
-	};
 };
 
 export type LicenseConfig = {
@@ -225,63 +159,55 @@ export type LicenseConfig = {
 	url: string;
 };
 
-// Permalink 配置
-export type PermalinkConfig = {
-	enable: boolean; // 是否启用全局 permalink 功能
-	/**
-	 * permalink 格式模板
-	 * 支持的占位符：
-	 * - %year% : 4位年份 (2024)
-	 * - %monthnum% : 2位月份 (01-12)
-	 * - %day% : 2位日期 (01-31)
-	 * - %hour% : 2位小时 (00-23)
-	 * - %minute% : 2位分钟 (00-59)
-	 * - %second% : 2位秒数 (00-59)
-	 * - %post_id% : 文章序号（按发布时间升序排列）
-	 * - %postname% : 文章文件名（slug）
-	 * - %category% : 分类名（无分类时为 "uncategorized"）
-	 *
-	 * 示例：
-	 * - "%year%-%monthnum%-%postname%" => "2024-12-my-post"
-	 * - "%post_id%-%postname%" => "42-my-post"
-	 * - "%category%-%postname%" => "tech-my-post"
-	 *
-	 * 注意：不支持斜杠 "/"，所有生成的链接都在根目录下
-	 */
-	format: string;
+/** 单篇文章 frontmatter 的版权覆写；省略字段回退到全站 licenseConfig。 */
+export type LicenseOverride = Partial<LicenseConfig> & {
+	/** 作者名，或带链接的作者对象；缺省回退到 profileConfig.name。 */
+	author?: string | LicenseAuthorInput;
+	/** 转载来源链接；留空表示原创。 */
+	source?: string;
 };
 
-// 评论配置
+/** 文章级版权覆写：对象写法，或用字符串简写许可证名称。 */
+export type LicenseOverrideInput = LicenseOverride | string;
 
-export type CommentConfig = {
-	enable: boolean; // 是否启用评论功能
-	twikoo?: TwikooConfig;
+/** 文章版权卡片中的作者信息。 */
+export type LicenseAuthorInput = {
+	name?: string;
+	url?: string;
 };
 
-type TwikooConfig = {
-	envId: string;
-	region?: string;
-	lang?: string;
+/** 已解析的文章版权信息：全站配置 + 文章级覆写 + 作者/转载来源。 */
+export type ResolvedLicenseConfig = LicenseConfig & {
+	author: {
+		name: string;
+		url: string;
+	};
+	/** 转载来源链接；空字符串表示原创。 */
+	source: string;
 };
 
-export type LIGHT_DARK_MODE = typeof LIGHT_MODE | typeof DARK_MODE;
-
-export type WALLPAPER_MODE =
-	| typeof WALLPAPER_BANNER
-	| typeof WALLPAPER_FULLSCREEN
-	| typeof WALLPAPER_NONE;
+export type LIGHT_DARK_MODE =
+	| typeof LIGHT_MODE
+	| typeof DARK_MODE
+	| typeof AUTO_MODE;
 
 export type BlogPostData = {
 	body: string;
 	title: string;
 	published: Date;
+	publishedAt?: Date;
+	updated?: Date;
+	updatedAt?: Date;
 	description: string;
 	tags: string[];
 	draft?: boolean;
 	image?: string;
 	category?: string;
-	pinned?: boolean;
+	alias?: string;
+	permalink?: string;
 	prevTitle?: string;
+	prevUrl?: string;
+	nextUrl?: string;
 	prevSlug?: string;
 	nextTitle?: string;
 	nextSlug?: string;
@@ -289,164 +215,6 @@ export type BlogPostData = {
 
 export type ExpressiveCodeConfig = {
 	theme: string;
-	hideDuringThemeTransition?: boolean; // 是否在主题切换时隐藏代码块
+	lightTheme?: string;
+	darkTheme?: string;
 };
-
-export type AnnouncementConfig = {
-	// enable属性已移除，现在通过sidebarLayoutConfig统一控制
-	title?: string; // 公告栏标题
-	content: string; // 公告栏内容
-	icon?: string; // 公告栏图标
-	type?: "info" | "warning" | "success" | "error"; // 公告类型
-	closable?: boolean; // 是否可关闭
-	link?: {
-		enable: boolean; // 是否启用链接
-		text: string; // 链接文字
-		url: string; // 链接地址
-		external?: boolean; // 是否外部链接
-	};
-};
-
-export type MusicPlayerConfig = {
-	enable: boolean; // 是否启用音乐播放器功能
-	mode: "meting" | "local"; // 音乐播放器模式
-	meting_api: string; // Meting API 地址
-	id: string; // 歌单ID
-	server: string; // 音乐源服务器
-	type: string; // 音乐类型
-};
-
-export type FooterConfig = {
-	enable: boolean; // 是否启用Footer HTML注入功能
-	customHtml?: string; // 自定义HTML内容，用于添加备案号等信息
-};
-
-// 组件配置类型定义
-export type WidgetComponentType =
-	| "profile"
-	| "announcement"
-	| "categories"
-	| "tags"
-	| "toc"
-	| "music-player"
-	| "pio" // 添加 pio 组件类型
-	| "site-stats" // 站点统计组件
-	| "calendar" // 日历组件
-	| "custom";
-
-export type WidgetComponentConfig = {
-	type: WidgetComponentType; // 组件类型
-	enable: boolean; // 是否启用该组件
-	order: number; // 显示顺序，数字越小越靠前
-	position: "top" | "sticky"; // 组件位置：顶部固定区域或粘性区域
-	sidebar?: "left" | "right"; // 组件所在侧边栏：左侧或右侧（仅当启用双侧边栏时有效）
-	class?: string; // 自定义CSS类名
-	style?: string; // 自定义内联样式
-	animationDelay?: number; // 动画延迟时间（毫秒）
-	responsive?: {
-		hidden?: ("mobile" | "tablet" | "desktop")[]; // 在指定设备上隐藏
-		collapseThreshold?: number; // 折叠阈值
-	};
-	customProps?: Record<string, any>; // 自定义属性，用于扩展组件功能
-};
-
-export type SidebarLayoutConfig = {
-	position: "unilateral" | "both"; // 侧边栏位置：单侧或双侧
-	components: WidgetComponentConfig[]; // 组件配置列表
-	defaultAnimation: {
-		enable: boolean; // 是否启用默认动画
-		baseDelay: number; // 基础延迟时间（毫秒）
-		increment: number; // 每个组件递增的延迟时间（毫秒）
-	};
-	responsive: {
-		breakpoints: {
-			mobile: number; // 移动端断点（px）
-			tablet: number; // 平板端断点（px）
-			desktop: number; // 桌面端断点（px）
-		};
-		layout: {
-			mobile: "hidden" | "bottom" | "drawer" | "sidebar"; // 移动端布局模式
-			tablet: "sidebar" | "bottom" | "drawer"; // 平板端布局模式
-			desktop: "sidebar"; // 桌面端布局模式
-		};
-	};
-};
-
-export type SakuraConfig = {
-	enable: boolean; // 是否启用樱花特效
-	sakuraNum: number; // 樱花数量，默认21
-	limitTimes: number; // 樱花越界限制次数，-1为无限循环
-	size: {
-		min: number; // 樱花最小尺寸倍数
-		max: number; // 樱花最大尺寸倍数
-	};
-	opacity: {
-		min: number; // 樱花最小不透明度
-		max: number; // 樱花最大不透明度
-	};
-	speed: {
-		horizontal: {
-			min: number; // 水平移动速度最小值
-			max: number; // 水平移动速度最大值
-		};
-		vertical: {
-			min: number; // 垂直移动速度最小值
-			max: number; // 垂直移动速度最大值
-		};
-		rotation: number; // 旋转速度
-		fadeSpeed: number; // 消失速度
-	};
-	zIndex: number; // 层级，确保樱花在合适的层级显示
-};
-
-export type FullscreenWallpaperConfig = {
-	src:
-		| string
-		| string[]
-		| {
-				desktop?: string | string[];
-				mobile?: string | string[];
-		  }; // 支持单个图片、图片数组或分别设置桌面端和移动端图片
-	position?: "top" | "center" | "bottom"; // 壁纸位置，等同于 object-position
-	carousel?: {
-		enable: boolean; // 是否启用轮播
-		interval: number; // 轮播间隔时间（秒）
-	};
-	zIndex?: number; // 层级，确保壁纸在合适的层级显示
-	opacity?: number; // 壁纸透明度，0-1之间
-	blur?: number; // 背景模糊程度，单位px
-};
-
-/**
- * Pio 看板娘配置
- */
-export type PioConfig = {
-	enable: boolean; // 是否启用看板娘
-	models?: string[]; // 模型文件路径数组
-	position?: "left" | "right"; // 看板娘位置
-	width?: number; // 看板娘宽度
-	height?: number; // 看板娘高度
-	mode?: "static" | "fixed" | "draggable"; // 展现模式
-	hiddenOnMobile?: boolean; // 是否在移动设备上隐藏
-	dialog?: {
-		welcome?: string | string[]; // 欢迎词
-		touch?: string | string[]; // 触摸提示
-		home?: string; // 首页提示
-		skin?: [string, string]; // 换装提示 [切换前, 切换后]
-		close?: string; // 关闭提示
-		link?: string; // 关于链接
-		custom?: Array<{
-			selector: string; // CSS选择器
-			type: "read" | "link"; // 类型
-			text?: string; // 自定义文本
-		}>;
-	};
-};
-
-/**
- * 分享组件配置
- */
-export type ShareConfig = {
-	enable: boolean; // 是否启用分享功能
-};
-
