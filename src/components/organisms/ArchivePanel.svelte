@@ -99,7 +99,9 @@ const filterCrumb = $derived.by(() => {
 const groupOptions = [
 	{ value: "year", label: i18n(I18nKey.archiveGroupYear) },
 	{ value: "category", label: i18n(I18nKey.archiveGroupCategory) },
-	{ value: "tag", label: i18n(I18nKey.archiveGroupTag) },
+	// 按标签分组暂不可用：文章标签存在重复时，同一文章会重复进入同一分组，
+	// 触发 Svelte each_key_duplicate 导致列表渲染中断；修复去重后可恢复。
+	// { value: "tag", label: i18n(I18nKey.archiveGroupTag) },
 ];
 
 /** 筛选后的文章（分组维度与之正交，均在下方消费） */
