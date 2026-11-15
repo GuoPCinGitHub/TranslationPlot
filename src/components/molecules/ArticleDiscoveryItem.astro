@@ -50,6 +50,10 @@ const accent = lane === "related" ? "var(--primary)" : "var(--tertiary)";
 		--m3e-state-color: var(--primary)
 		--m3e-focus-outline: var(--primary)
 
+		> :global(.m3-accent-bar)
+			align-self: flex-start
+			transform: translateY(0.25rem)
+
 	&--random &__link
 		--m3e-state-color: var(--tertiary)
 		--m3e-focus-outline: var(--tertiary)
