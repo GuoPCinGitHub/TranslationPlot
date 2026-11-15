@@ -38,6 +38,13 @@ test("resolvePageKey handles root deployment", () => {
 		resolvePageKey(new URL("https://example.com/archive/?tag=Accessibility")),
 		"tags",
 	);
+	// 顶级导航的分类/标签入口指向独立页面，页面本身也必须解析出 pageKey，
+	// 否则客户端脚本空匹配会把「更多」下拉误点亮。
+	assert.equal(
+		resolvePageKey(new URL("https://example.com/categories/")),
+		"categories",
+	);
+	assert.equal(resolvePageKey(new URL("https://example.com/tags/")), "tags");
 });
 
 test("resolvePageKey handles subpath deployment with base override", () => {
@@ -73,6 +80,17 @@ test("resolvePageKey handles subpath deployment with base override", () => {
 			new URL("https://example.com/Shirone/archive/?tag=Accessibility"),
 			base,
 		),
+		"tags",
+	);
+	assert.equal(
+		resolvePageKey(
+			new URL("https://example.com/Shirone/categories/"),
+			base,
+		),
+		"categories",
+	);
+	assert.equal(
+		resolvePageKey(new URL("https://example.com/Shirone/tags/"), base),
 		"tags",
 	);
 });

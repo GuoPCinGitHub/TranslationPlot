@@ -107,7 +107,10 @@ function isActive(link: (typeof links)[number]): boolean {
 
 	function setTopAppBarNavigation(pageKey: string) {
 		document.querySelectorAll<HTMLElement>("[data-nav-key]").forEach((link) => {
-			const active = (link.dataset.navKey || "") === pageKey;
+			// 空 pageKey（文章页、自定义页等）不得点亮任何入口：
+			// 无 pageKey 的链接（如外链）data-nav-key 为空串，会被空匹配误激活。
+			const active =
+				pageKey !== "" && (link.dataset.navKey || "") === pageKey;
 			link.classList.toggle("top-app-bar__nav-link--active", active);
 			if (active) link.setAttribute("aria-current", "page");
 			else link.removeAttribute("aria-current");
