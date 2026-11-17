@@ -3,7 +3,14 @@ title: 《星になれたら（若是化作星辰）》歌词翻译
 published: 2026-11-14
 description: 游戏《FORTUNE×WORLD ～我们制作游戏的理由～》插曲
 image: ./covers/fortune_melody.png
-tags: ["FORTUNE×WORLD ～我们制作游戏的理由～", "Duca演唱", "新岛夕作词", "竹下智博作曲"]
+tags:
+  [
+    "FORTUNE×WORLD ～我们制作游戏的理由～",
+    "插曲",
+    "Duca演唱",
+    "新岛夕作词",
+    "竹下智博作曲",
+  ]
 category: 日本音乐作品
 ---
 
