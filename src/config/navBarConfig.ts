@@ -74,7 +74,6 @@ export const LinkPresets: Record<string, NavBarLink> = {
 const defaultNavBarConfig: NavBarConfig = {
 	links: [
 		LinkPresets.Home,
-		LinkPresets.Archive,
 		// LinkPresets.Friends,
 		// LinkPresets.Moments,
 		// LinkPresets.Anime,
