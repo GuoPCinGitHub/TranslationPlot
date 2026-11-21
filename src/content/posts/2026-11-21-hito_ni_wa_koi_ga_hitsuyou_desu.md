@@ -1,6 +1,6 @@
 ---
 title: 《ヒトには恋が必要です（人生少不了恋爱）》歌词翻译
-published: 2026-11-20
+published: 2026-11-21
 description: 游戏《恋爱少不了撒娇》片尾曲
 image: ./covers/koi_ni_wa_amai_ga_hitsuyou_desu_original_soundtrack.png
 tags:
