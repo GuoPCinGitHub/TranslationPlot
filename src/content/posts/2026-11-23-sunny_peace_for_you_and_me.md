@@ -34,7 +34,9 @@ category: 日本音乐作品
 <div lang="ja" style="white-space:pre-wrap;">
 
 SUNNY PEACE for You and Me!
+
 Wow Wow You & Me Wow Wow
+
 今までと これからが 繋がっていく
 今は そんな旅の途中
 上手く伝えられてるかな？
@@ -43,17 +45,21 @@ Wow Wow You & Me Wow Wow
 ほらね こんなに輝いて
 だけと何か足りないような
 そんな夜を過ごしていた
+
 EVERYDAY
 いつもそこにあったのは
 SUNNYDAY
 眩しい笑顔の魔法
 みんなのピースも見せて その両手で
 "SUNNY PEACE for You and Me!"
+
 この指とまれ！
 隣の笑顔 寂しい顔も 繋がればほら幸せ！
 SUNNY PEACE for You and Me!
 世界中が輝きだす 響け！ このハーモニー♪
+
 Wow Wow You & Me Wow Wow
+
 繋がった 心から 伝わってくる
 そうだよ こんなに暖かな
 この気持ち届いてるかな？
@@ -62,11 +68,13 @@ Wow Wow You & Me Wow Wow
 絶対大丈夫信じて
 小さな光でも大きな
 奇跡だって起こせるから
+
 EVERYDAY
 いつも側に感じてる
 SUNNYDAY
 太陽よりも輝いて
 みんなの「ピース！」聴かせて
+
 SUNNY PEACE for You and Me!
 「もっともっと！繋げよう！」
 「私達と、みんなの想い」
@@ -79,10 +87,12 @@ SUNNY PEACE for You and Me!
 SUNNY PEACE for You and Me!
 みんなのピースも見せて その両手で
 "SUNNY PEACE You and Me!"
+
 この指とまれ！
 隣の笑顔 寂しい顔も 繋がればほら幸せ！
 SUNNY PEACE for You and Me!
 世界中が輝きだす 響け！このハーモニー♪
+
 この指とまれ！
 SUNNY PEACE for You and Me!
 
