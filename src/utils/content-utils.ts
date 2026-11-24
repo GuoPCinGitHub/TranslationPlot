@@ -16,6 +16,8 @@ import {
 	type SeriesEntity,
 } from "@utils/series-utils";
 import { getCategoryUrl, getPostUrl, url } from "@utils/url-utils";
+import { momentsConfig } from "@/config/momentsConfig";
+import { seriesConfig } from "@/config/seriesConfig";
 import type { ProtectedPayload } from "@/types/protectedContent";
 
 /**
@@ -24,9 +26,13 @@ import type { ProtectedPayload } from "@/types/protectedContent";
  * 可在 node --test 下直接导入。
  */
 export async function getSeriesCatalog(): Promise<Map<string, SeriesEntity>> {
+	// 功能关闭时直接返回空目录（系列页 404、文章内系列卡不渲染）
+	if (!seriesConfig.enable) return new Map();
 	const entries = await getCollection("series");
 	const catalog = new Map<string, SeriesEntity>();
 	for (const entry of entries) {
+		// `_` 前缀为空集合占位（消除 build 空集合警告），不进入目录
+		if (entry.id.startsWith("_")) continue;
 		catalog.set(entry.id, entry);
 	}
 	return catalog;
@@ -269,9 +275,14 @@ function withMomentThumbnails(image: MomentImage): MomentImage {
 }
 
 export async function getSortedMoments(): Promise<MomentItem[]> {
+	// 功能关闭时直接返回空列表（动态页 404、统计行隐藏）
+	if (!momentsConfig.enable) return [];
 	const entries = await getCollection("moments", ({ data }) => {
 		return import.meta.env.PROD ? data.draft !== true : true;
-	});
+	}).then((list) =>
+		// `_` 前缀为空集合占位（消除 build 空集合警告），任何环境都不展示
+		list.filter((entry) => !entry.id.startsWith("_")),
+	);
 
 	const sorted = entries.sort(comparePublicationEntries);
 

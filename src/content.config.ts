@@ -124,6 +124,10 @@ const momentsCollection = defineCollection({
 export const collections = {
 	posts: postsCollection,
 	spec: specCollection,
+	// series/moments 功能关闭时目录为空，Astro content layer 对空集合会发
+	// [WARN] The collection "..." does not exist or is empty。
+	// 用 `_placeholder.md` 占位保证集合非空以消除警告；查询层（content-utils）
+	// 按 `_` 前缀过滤占位，绝不进入页面与统计。新增真实内容后可删除占位。
 	series: seriesCollection,
 	moments: momentsCollection,
 } as const;
