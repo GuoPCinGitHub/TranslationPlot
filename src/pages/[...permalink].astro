@@ -302,10 +302,14 @@ const jsonLd = {
 					class="mb-8 rounded-xl banner-container onload-animation"
 					loading="eager"
 					fetchPriority="high"
+					/* sharp 处理全部停用（webp/avif 变体 + png 压缩）：raw 直接引用原图，
+					   构建时不再生成任何图片变体。原处理参数存档：
 					widths={[360, 720, 1080, 1440]}
 					sizes="(min-width: 1280px) 720px, (min-width: 768px) calc(100vw - 22rem), calc(100vw - 3.5rem)"
 					formats={["avif", "webp"]}
 					quality={65}
+					*/
+					raw={true}
 				/>
 			}
 

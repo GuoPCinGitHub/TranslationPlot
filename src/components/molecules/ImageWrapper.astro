@@ -20,6 +20,7 @@ interface Props {
 	sizes?: string;
 	formats?: Array<"avif" | "webp">;
 	quality?: number;
+	raw?: boolean;
 }
 
 const {
@@ -35,6 +36,7 @@ const {
 	sizes,
 	formats,
 	quality,
+	raw = false,
 } = Astro.props;
 const className = Astro.props.class;
 
@@ -85,7 +87,19 @@ const resolvedAspectRatio = aspectRatio ?? (!isLocal ? "16 / 9" : undefined);
 >
     {bloomEnabled && <div class="image-bloom-layer" aria-hidden="true"></div>}
     <div class="transition absolute inset-0 dark:bg-black/10 bg-opacity-50 pointer-events-none z-2"></div>
-    {isLocal && img && formats && formats.length > 0 && (
+    {isLocal && img && raw && (
+		<img
+			src={img.src}
+			alt={alt || ""}
+			class={imageClass}
+			style={imageStyle}
+			loading={loading}
+			fetchpriority={fetchPriority}
+			decoding="async"
+			onload={bloomEnabled ? "this.classList.add('image-bloom-img--loaded'); this.parentElement?.parentElement?.querySelector('.image-bloom-layer')?.classList.add('image-bloom-layer--loaded');" : undefined}
+		/>
+	)}
+    {isLocal && img && !raw && formats && formats.length > 0 && (
 		<Picture
 			src={img}
 			formats={formats}
@@ -101,7 +115,7 @@ const resolvedAspectRatio = aspectRatio ?? (!isLocal ? "16 / 9" : undefined);
 			onload={bloomEnabled ? "this.classList.add('image-bloom-img--loaded'); this.parentElement?.parentElement?.querySelector('.image-bloom-layer')?.classList.add('image-bloom-layer--loaded');" : undefined}
 		/>
 	)}
-    {isLocal && img && (!formats || formats.length === 0) && (
+    {isLocal && img && !raw && (!formats || formats.length === 0) && (
 		<Image
 			src={img}
 			widths={widths}
