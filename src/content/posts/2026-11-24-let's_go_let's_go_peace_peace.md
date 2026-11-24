@@ -2,7 +2,7 @@
 title: 《Let'sGo!Let'sGo!ピース！ピース！（Let'sGo!Let'sGo!PEACE!PEACE!）》歌词翻译
 published: 2026-11-24
 description: 多媒体企划《IDOLY PRIDE》曲目
-image: ./covers/sunny_peace_for_you_and_me.png
+image: ./covers/let's_go_let's_go_peace_peace.png
 tags:
   [
     "IDOLY PRIDE",
